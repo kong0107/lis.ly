@@ -1,0 +1,91 @@
+{
+    "title": "現行法規所定貨幣單位折算新臺幣條例",
+    "versions": [
+        "中華民國81年6月30日制定",
+        "中華民國81年7月17日公布"
+    ],
+    "types": [
+        "異動條文及理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(立法目的)",
+            "rule_no": "第一條",
+            "content": "　　為現行法規所定貨幣單位折算為新臺幣，以維持現行法規之適用，特制定本條例。",
+            "relates": {}
+        },
+        {
+            "note": "(圓、銀元或元之折算方式)",
+            "rule_no": "第二條",
+            "content": "　　現行法規所定金額之貨幣單位為圓、銀元或元者，以新臺幣元之三倍折算之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第三條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第一條": "　　現行法規所定貨幣單位折算新臺幣問題，涉及法規適用之一致性，爰於本條明定制定本條例之目的。",
+        "第二條": "　　銀元及銀元兌換券發行辦法廢止後，為確保人民權利並維持現行法規之適用，爰明定現行法規所定金額之貨幣單位為圓、銀元或元者，對新臺幣元按一比三之折合率折算。",
+        "第三條": "　　明定本條例之施行日期。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "810225",
+            "立法紀錄": "81卷17期2545號上冊 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7ccccc6c6cacb81c7cecfcec8cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cfcdcfcec5cdccc7d2cdcbce"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "810321",
+            "立法紀錄": "81卷26期2554號下冊 437-457頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7ccccc6c6cacb81c7cecfcdc9cfccc4cfcbccc8c4cfcbcac8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "810511",
+            "立法紀錄": "81卷40期2568號 329-336頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7ccccc6c6cacb81c7cecfcbcfcfcfc4cfcccdc6c4cfccccc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "810630",
+            "立法紀錄": "81卷53期2581號上冊 77-81頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7ccccc6c6cacb81c7cecfcacccfcec4cfcfc8c8c4cfcfc7ce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cccecfcfc5cccfcfd2cccfcc"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "810630",
+            "立法紀錄": "81卷53期2581號上冊 81-84頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7ccccc6c6cacb81c7cecfcacccfcec4cfcfc7cec4cfcfc7cb",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "810630",
+            "立法紀錄": "81卷53期2581號上冊 84-86頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7ccccc6c6cacb81c7cecfcacccfcec4cfcfc7cbc4cfcfc7c9",
+            "關係文書": []
+        }
+    ]
+}
