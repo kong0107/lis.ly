@@ -1,0 +1,104 @@
+{
+    "title": "民國三十七年短期國庫券條例",
+    "versions": [
+        "中華民國62年5月22日停止適用",
+        "中華民國62年6月5日公布"
+    ],
+    "types": [
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(國庫券定名及用途)",
+            "rule_no": "第一條",
+            "content": "　　本庫券定名為民國三十七年短期國庫券，以充調節金融吸收游資之用。",
+            "relates": {}
+        },
+        {
+            "note": "(限期發行之種類)",
+            "rule_no": "第二條",
+            "content": "　　本國庫券視實際需要，分左列三種限期發行之，總額不加限制：\n　　一、一個月期。\n　　二、二個月期。\n　　三、三個月期。",
+            "relates": {}
+        },
+        {
+            "note": "(國庫券面額及不記名)",
+            "rule_no": "第三條",
+            "content": "　　本國庫券面額分為五十元、一百元、五百元、一千元、五千元五種，均為不記名式。",
+            "relates": {}
+        },
+        {
+            "note": "(國庫券利率)",
+            "rule_no": "第四條",
+            "content": "　　本國庫券利率定為月息一分五厘，於到期日本息一併付給。",
+            "relates": {}
+        },
+        {
+            "note": "(國庫券之發行)",
+            "rule_no": "第五條",
+            "content": "　　本國庫券授權中央銀行在公開市場發行，並視市場資金供求情形，得升值或折扣發行，並得於未到期前向市場購回，中央銀行並應按週將發行數額報告財政部備查。",
+            "relates": {}
+        },
+        {
+            "note": "(國庫券還本付息基金)",
+            "rule_no": "第六條",
+            "content": "　　本國庫券還本付息基金，由財政部於庫券到期前五日，就發行實數，在國稅收入項下撥充，並由中央銀行及其委託之銀行經付。",
+            "relates": {}
+        },
+        {
+            "note": "(國庫券之偽造)",
+            "rule_no": "第七條",
+            "content": "　　對於本國庫券有偽造之行為者，由法院依法懲治。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第八條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "610104",
+            "立法紀錄": "61卷2期455號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcfc7c8cd81c9cecbc7cfcdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "610119",
+            "立法紀錄": "61卷43期496號 49-53頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcfc7c8cd81c9cecbc6cbcccfcfcfcdc4cfcfcbc6c4cfcfcacc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "610307",
+            "立法紀錄": "61卷19期472號 41-48頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcfc7c8cd81c9cecbc6cec6cfcfcfcec4cfcfcbcec4cfcfcbc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "610310",
+            "立法紀錄": "61卷20期473號 2-15頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcfc7c8cd81c9cecbc6cdcfcfcfcfcec4cfcfcfcdc4cfcfceca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "610317",
+            "立法紀錄": "61卷22期475號 4-13頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcfc7c8cd81c9cecbc6cdcdcfcfcfcec4cfcfcfcbc4cfcfcecc",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "620522",
+            "立法紀錄": "62卷38期594號 11-22頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcfc7c8cd81c9cdcaceccc7cfcfcfcec4cfcfcecec4cfcfcdcd",
+            "關係文書": []
+        }
+    ]
+}
