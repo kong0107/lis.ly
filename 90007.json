@@ -1,0 +1,99 @@
+{
+    "title": "博士學位評定會組織條例",
+    "versions": [
+        "中華民國72年4月26日廢止",
+        "中華民國72年5月6日公布"
+    ],
+    "types": [
+        "廢止理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(立法依據)",
+            "rule_no": "第一條",
+            "content": "　　本條例依學位授予法第五條之規定制定之。",
+            "relates": {}
+        },
+        {
+            "note": "(博士學位評定會)",
+            "rule_no": "第二條",
+            "content": "　　博士學位評定會，應視每一博士學位候選人所研究之學科及所提研究論文題目，依本條例分別組成之。",
+            "relates": {}
+        },
+        {
+            "note": "(博士學位評定會之組織)",
+            "rule_no": "第三條",
+            "content": "　　博士學位評定會，置委員五人至九人，由教育部部長聘任之，並指定委員一人為主席。\n　　前項委員如有由提出候選人之學校教師或原校考試委員擔任者，以一人為限。",
+            "relates": {}
+        },
+        {
+            "note": "(博士學位評定會委員之資格)",
+            "rule_no": "第四條",
+            "content": "　　博士學位評定會委員應具左列資格之一：\n　　一、曾任教授五年以上，並擔任與博士學位候選人所提研究論文之有關學科教學者。\n　　二、中央研究院院士及曾任中央研究院研究所研究員五年以上，對博士學位候選人所提研究論文學科有專門研究者。\n　　三、在學術上有卓越成就，並對博士學位候選人所提研究論文學科有專門研究者。",
+            "relates": {}
+        },
+        {
+            "note": "(博士學位評定會辦事人員)",
+            "rule_no": "第五條",
+            "content": "　　博士學位評定會辦事人員，由教育部就現有人員中指派兼任之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第六條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　現行博士學位評定會組織條例之規定，已納入新學位授予法中，故將本法予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "711123",
+            "立法紀錄": "71卷94期1579號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc8c8c8cd81c8cec8cfc6cbcfcfc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cfcfcbcfcfc5cec6d2cdc7"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "711211",
+            "立法紀錄": "72卷26期1615號 47-57頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc8c8c8cd81c8cdc8cecdc9cfcfc4cfcfcbc8c4cfcfcac8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "711222",
+            "立法紀錄": "72卷28期1617號 19-27頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc8c8c8cd81c8cdc8cecdc7cfcfc4cfcfcec6c4cfcfcdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "720106",
+            "立法紀錄": "72卷31期1620號 83-92頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc8c8c8cd81c8cdc8cecccecfcfc4cfcfc7ccc4cfcfc6cd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "720419",
+            "立法紀錄": "72卷32期1621號 9-23頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc8c8c8cd81c8cdc8cecccdcfcfc4cfcfcfc6c4cfcfcdcc",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "720426",
+            "立法紀錄": "72卷34期1623號 15-15頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc8c8c8cd81c8cdc8cecccbcfcfc4cfcfcecac4cfcfceca",
+            "關係文書": []
+        }
+    ]
+}
