@@ -1,0 +1,137 @@
+{
+    "title": "郵政國內匯兌法",
+    "versions": [
+        "中華民國92年4月29日廢止",
+        "中華民國92年5月7日公布"
+    ],
+    "types": [
+        "廢止理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(郵政匯兌辦理機關)",
+            "rule_no": "第一條",
+            "content": "　　郵政匯兌事務，由交通部設置郵政儲金匯業總局辦理之。",
+            "relates": {}
+        },
+        {
+            "note": "(匯款及費用所用貨幣)",
+            "rule_no": "第二條",
+            "content": "　　郵政匯兌之匯款及費用，均以國幣或當地之通用銀幣為限。",
+            "relates": {}
+        },
+        {
+            "note": "(郵政匯兌種類)",
+            "rule_no": "第三條",
+            "content": "　　郵政匯兌，得分為普通匯兌、電報匯兌，及小款匯兌三種。",
+            "relates": {}
+        },
+        {
+            "note": "(金額限制)",
+            "rule_no": "第四條",
+            "content": "　　郵政匯兌金額之限制，由交通部定之。",
+            "relates": {}
+        },
+        {
+            "note": "(憑證)",
+            "rule_no": "第五條",
+            "content": "　　郵政匯兌，應以郵政匯票為憑。",
+            "relates": {}
+        },
+        {
+            "note": "(匯票添註塗改禁止)",
+            "rule_no": "第六條",
+            "content": "　　匯票不得私自添註、塗改。",
+            "relates": {}
+        },
+        {
+            "note": "(取款證明)",
+            "rule_no": "第七條",
+            "content": "　　郵局為調查取款人之真偽，得令其出具必要之證明。",
+            "relates": {}
+        },
+        {
+            "note": "(匯票有效期間)",
+            "rule_no": "第八條",
+            "content": "　　匯票之有效期間，由交通部分別種類，依地方之遠近定之。但不得少於三個月。",
+            "relates": {}
+        },
+        {
+            "note": "(匯票逾期未取款之處置)",
+            "rule_no": "第九條",
+            "content": "　　匯票逾有效期間，未經取款者，應由郵局送還原局，通知匯款人領還。\n　　前項情形，匯款人不得要求退還匯費。",
+            "relates": {}
+        },
+        {
+            "note": "(副匯票之發給)",
+            "rule_no": "第十條",
+            "content": "　　匯票如有遺失、汙毀，匯款人或受款人，得請求郵局發給副匯票。\n　　副匯票一經發出，原匯票即作無效。",
+            "relates": {}
+        },
+        {
+            "note": "(匯票作廢)",
+            "rule_no": "第十一條",
+            "content": "　　遇第九條第一項情形，匯款人不領還匯款時，應自匯票開出之日起算，滿三年後，即將匯票作廢，其匯款收作公款。",
+            "relates": {}
+        },
+        {
+            "note": "(免稅捐)",
+            "rule_no": "第十二條",
+            "content": "　　郵政匯兌應免一切稅捐。",
+            "relates": {}
+        },
+        {
+            "note": "(行為能力)",
+            "rule_no": "第十三條",
+            "content": "　　無行為能力人，及限制行為能力人，關於郵政匯兌事務，於郵政匯兌機關所為之行為，視為有行為能力人之行為。",
+            "relates": {}
+        },
+        {
+            "note": "(施行細則、匯兌章程)",
+            "rule_no": "第十四條",
+            "content": "　　本法施行細則，及各種匯兌章程，由交通部定之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第十五條",
+            "content": "　　本法自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　「郵政國內匯兌法」、「郵政儲金法」、「交通部郵政總局組織法」、「郵政儲金匯業局組織法」、「交通部郵政總局郵區管理局組織通則」，配合郵政機關於民國92年1月1日改制為中華郵政股份有限公司，其有關規定已分由「郵政儲金匯兌法」及「中華郵政股份有限公司設置條例」加以規範，無繼續存在之必要，爰予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "920307",
+            "立法紀錄": "92卷12期3286號 4-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc9cacf81c6cdcecdcfcfc4cfcfcfcbc4cfcfcfca",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcdcfcec5cdcfced2cdcdcb"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "920331",
+            "立法紀錄": "92卷20期3294號上冊 127-152頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc9cacf81c6cdcdcfcfcec4cfcecdc8c4cfcecacd",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "920429",
+            "立法紀錄": "92卷23期3297號一冊 156-160頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc9cacf81c6cdcdcccfcec4cfcecac9c4cfcec9cf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfc6cfcdc5cdc6c7d2cccfca"
+                ]
+            ]
+        }
+    ]
+}
