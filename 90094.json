@@ -1,0 +1,90 @@
+{
+    "title": "警察逃亡懲治條例",
+    "versions": [
+        "中華民國70年10月27日廢止",
+        "中華民國70年11月6日公布"
+    ],
+    "types": [
+        "廢止理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(警官、警長、警士無故離去職役之處斷)",
+            "rule_no": "第一條",
+            "content": "　　警官、警長、警士無故離去職役者，依左列各款處斷：\n　　一、過六日者，處六月以下有期徒刑或拘役。\n　　二、在戒嚴區域過三日者，處一年以下有期徒刑或拘役。",
+            "relates": {}
+        },
+        {
+            "note": "(罰則)",
+            "rule_no": "第二條",
+            "content": "　　二人以上共犯前條第一款之罪者，處一年以下有期徒刑或拘役，首謀者處一年以下有期徒刑。\n　　二人以上共犯前條第二款之罪者，處一年以下有期徒刑，首謀者處二年以下有期徒刑。",
+            "relates": {}
+        },
+        {
+            "note": "(罰則)",
+            "rule_no": "第三條",
+            "content": "　　在受警察訓練或實習期間，無故不就職役過六日者，處六月以下有期徒刑或拘役。",
+            "relates": {}
+        },
+        {
+            "note": "(罰則)",
+            "rule_no": "第四條",
+            "content": "　　明知警官、警長、警士犯前三條之罪而藏匿或使之隱避者，處六月以下有期徒刑拘役或五十元以下罰金。\n　　犯前項之罪而自首者，減輕或免除其刑。",
+            "relates": {}
+        },
+        {
+            "note": "(自行投案之減輕或免除其刑)",
+            "rule_no": "第五條",
+            "content": "　　犯第一條、第二條、第三條之罪而悔悟自行投案者，得減輕或免除其刑。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第六條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　「警察逃亡懲治條例」公布施行至今已四十餘年，目前警察人員為公務員，如有擅離職守情事，可依警察人員管理條例及公務人員管理法令等規定辦理，本條例已不適於目前狀況，故予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "700714",
+            "立法紀錄": "70卷56期1437號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcec8ceca81c8cfc9c8cac9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfc8cfcfc5c8c7c8d2c8c7c7"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "701015",
+            "立法紀錄": "71卷13期1498號 64-65頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcec8ceca81c8cec9c7cecccfcfc4cfcfc9cbc4cfcfc9ca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "701027",
+            "立法紀錄": "70卷86期1467號 4-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcec8ceca81c8cfc9c7c7c9cfcfc4cfcfcfcbc4cfcfcfc8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c7cfcbcfcfc5caccc7d2cacbcf"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "701027",
+            "立法紀錄": "70卷86期1467號 7-8頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcec8ceca81c8cfc9c7c7c9cfcfc4cfcfcfc8c4cfcfcfc7",
+            "關係文書": []
+        }
+    ]
+}
