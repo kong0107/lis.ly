@@ -1,0 +1,122 @@
+{
+    "title": "廣東省政府短期金庫券條例",
+    "versions": [
+        "中華民國62年5月22日停止適用",
+        "中華民國62年6月5日公布"
+    ],
+    "types": [
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(立法目的)",
+            "rule_no": "第一條",
+            "content": "　　廣東省政府為均衡戰時省金庫收入起見，特發行短期金庫券。",
+            "relates": {}
+        },
+        {
+            "note": "(庫券發行總額)",
+            "rule_no": "第二條",
+            "content": "　　本庫券發行總額為國幣四百八十萬元，自二十八年二月十五日起，分六個月發行，每月國幣八十萬元。",
+            "relates": {}
+        },
+        {
+            "note": "(庫券面額)",
+            "rule_no": "第三條",
+            "content": "　　本庫券額面分百元、十元二種。",
+            "relates": {}
+        },
+        {
+            "note": "(庫券利率)",
+            "rule_no": "第四條",
+            "content": "　　本庫券利率週年六厘。",
+            "relates": {}
+        },
+        {
+            "note": "(庫券之簽字發行)",
+            "rule_no": "第五條",
+            "content": "　　本庫券由財政廳廳長省金庫庫長簽字發行。",
+            "relates": {}
+        },
+        {
+            "note": "(庫券之清償)",
+            "rule_no": "第六條",
+            "content": "　　本庫券自各月發行之日起，滿足一年，本息一次償清。",
+            "relates": {}
+        },
+        {
+            "note": "(庫券之還本付息基金)",
+            "rule_no": "第七條",
+            "content": "　　本庫券以廣東省營業稅收入除抵償二十七年廣東省國防公債暨四行借款應付本息外之餘額及田賦收入，為還本付息基金，自各月發行之日起，由財政廳按月平均撥交省銀行，收入本庫券基金戶帳，專儲備付，並由廣東省國防公債基金保管委員會負責兼代保管之。",
+            "relates": {}
+        },
+        {
+            "note": "(庫券發行及還本付息之經理機關)",
+            "rule_no": "第八條",
+            "content": "　　本庫券之發行及還本付息事宜，由省金庫負責經理之。",
+            "relates": {}
+        },
+        {
+            "note": "(庫券無名並得買賣等)",
+            "rule_no": "第九條",
+            "content": "　　本庫券為無名式，得自由買賣，並得為本省公務上之保證金或擔保品。",
+            "relates": {}
+        },
+        {
+            "note": "(庫券之偽造及毀損信用)",
+            "rule_no": "第十條",
+            "content": "　　對於本庫券有偽造及毀損信用之行為者，由司法機關依法懲辦。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第十一條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "610104",
+            "立法紀錄": "61卷2期455號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcccbc7c681c9cecbc7cfcdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "610119",
+            "立法紀錄": "61卷43期496號 49-53頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcccbc7c681c9cecbc6cbcccfcfcfcdc4cfcfcbc6c4cfcfcacc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "610307",
+            "立法紀錄": "61卷19期472號 41-48頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcccbc7c681c9cecbc6cec6cfcfcfcec4cfcfcbcec4cfcfcbc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "610310",
+            "立法紀錄": "61卷20期473號 2-15頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcccbc7c681c9cecbc6cdcfcfcfcfcec4cfcfcfcdc4cfcfceca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "610317",
+            "立法紀錄": "61卷22期475號 4-13頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcccbc7c681c9cecbc6cdcdcfcfcfcec4cfcfcfcbc4cfcfcecc",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "610522",
+            "立法紀錄": "62卷38期594號 11-22頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcccbc7c681c9cdcaceccc7cfcfcfcec4cfcfcecec4cfcfcdcd",
+            "關係文書": []
+        }
+    ]
+}
