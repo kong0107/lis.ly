@@ -1,0 +1,95 @@
+{
+    "title": "煤業安定基金條例",
+    "versions": [
+        "中華民國93年6月11日廢止",
+        "中華民國93年6月23日公布"
+    ],
+    "types": [
+        "廢止理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(立法目的)",
+            "rule_no": "第一條",
+            "content": "　　為籌措輔導煤礦礦工轉業及補助礦工資遣所需之部分資金，就進口能源徵收基金，特制定本條例。",
+            "relates": {}
+        },
+        {
+            "note": "(主管機關)",
+            "rule_no": "第二條",
+            "content": "　　本條例所稱主管機關為財政部。",
+            "relates": {}
+        },
+        {
+            "note": "(進口能源定義)",
+            "rule_no": "第三條",
+            "content": "　　本條例所稱進口能源如左：\n　　一、燃煤。\n　　二、原油、燃料油。\n　　三、核能燃料。",
+            "relates": {}
+        },
+        {
+            "note": "(進口能源徵收基金)",
+            "rule_no": "第四條",
+            "content": "　　經政府核准，專以投資探勘、開發或加工國外天然資源運回國內之事業，其進口能源仍依本條例徵收基金。",
+            "relates": {}
+        },
+        {
+            "note": "(徵收基金金額)",
+            "rule_no": "第五條",
+            "content": "　　進口能源徵收基金，按關稅完稅價格百分之０．五徵收之。",
+            "relates": {}
+        },
+        {
+            "note": "(基金用途)",
+            "rule_no": "第六條",
+            "content": "　　依本條例徵收之基金，循預算程序併入臺灣地區煤業合理化基金專戶存儲，專供第一條規定用途。",
+            "relates": {}
+        },
+        {
+            "note": "(徵收基金期限)",
+            "rule_no": "第七條",
+            "content": "　　依本條例徵收基金之期限為六年。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第八條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　依「煤業安定基金條例」第七條規定，基金之徵收期限為六年，業已屆滿，其法規規定之事項已執行完畢，且無繼續再施行之必要，爰依中央法規標準法第二十一條第二款規定予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "910430",
+            "立法紀錄": "91卷30期3226號上冊 13-13頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcacbcfc781c6cecccfcfcec4cfcfceccc4cfcfcecc",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc6cfcec5cecdc7d2cecccf"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "930531",
+            "立法紀錄": "93卷34期3368號五冊 139-148頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcacbcfc781c6cccccbcfcac4cfceccc6c4cfcecbc7",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "930611",
+            "立法紀錄": "93卷34期3368號一冊 208-213頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcacbcfc781c6cccccbcfcec4cfcdcfc7c4cfcdcecc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecbcfcec5cacfcfd2cacfc9"
+                ]
+            ]
+        }
+    ]
+}
