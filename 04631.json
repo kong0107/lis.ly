@@ -1,0 +1,124 @@
+{
+    "title": "聘用人員聘用條例",
+    "versions": [
+        "中華民國61年1月25日修正",
+        "中華民國61年2月3日公布"
+    ],
+    "types": [
+        "異動條文及理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(制定依據)",
+            "rule_no": "第一條",
+            "content": "　　本條例依公務人員任用法第二十一條之規定制定之。",
+            "relates": {}
+        },
+        {
+            "note": "(適用範圍)",
+            "rule_no": "第二條",
+            "content": "　　各機關應業務需要，定期聘用人員，依本條例之規定；本條例未規定者，適用其他法律之規定。",
+            "relates": {}
+        },
+        {
+            "note": "(名詞定義)",
+            "rule_no": "第三條",
+            "content": "　　本條例所稱聘用人員，指各機關以契約定期聘用之專業或技術人員。其職稱、員額、期限及報酬，應詳列預算，並列冊送銓敘部登記備查；解聘時亦同。",
+            "relates": {}
+        },
+        {
+            "note": "(聘用契約應記載事項)",
+            "rule_no": "第四條",
+            "content": "　　聘用契約應記載左列事項：\n　　一、約聘期間。\n　　二、約聘報酬。\n　　三、業務內容及預定完成期限。\n　　四、受聘人違背義務時應負之責任。",
+            "relates": {}
+        },
+        {
+            "note": "(續聘之條件)",
+            "rule_no": "第五條",
+            "content": "　　聘用人員之約聘期間，有左列情形之一者，得予續聘：\n　　一、原定約聘期間少於預定完成期限者。\n　　二、因業務計畫變更或因不可抗力之事由，致預定完成期限必須延長者。",
+            "relates": {}
+        },
+        {
+            "note": "(不得適用之法律)",
+            "rule_no": "第六條",
+            "content": "　　聘用人員不適用俸給法、退休法及撫卹法之規定；其在約聘期間病故或因公死亡者，得酌給撫慰金。",
+            "relates": {}
+        },
+        {
+            "note": "(不得適用之職務)",
+            "rule_no": "第七條",
+            "content": "　　聘用人員不適用各該機關組織法規所定簡任職或薦任職各項職務之名稱，並不得兼任有職等之職務。\n　　各機關法定主管職位，不得以聘用人員充任之。",
+            "relates": {}
+        },
+        {
+            "note": "(違反規定之處分)",
+            "rule_no": "第八條",
+            "content": "　　各機關聘用人員不合本條例規定者，其所支經費，審計機關應不予核銷。",
+            "relates": {}
+        },
+        {
+            "note": "(施行細則之訂定)",
+            "rule_no": "第九條",
+            "content": "　　本條例施行細則，由考試院定之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第十條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第六條": "　　刪除考績法三字。其目的在於擴大延攬人才。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "610121",
+            "立法紀錄": "61卷7期460號 5-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cdc9c981c9cecbc7cfc8cfcfcfcec4cfcfcfcac4cfcfcfc8",
+            "主提案": "孫桂籍",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcccfcfc5c7cec8d2c7cec7"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "610124",
+            "立法紀錄": "61卷29期482號 29-31頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cdc9c981c9cecbc6cdc6cfcfcfcdc4cfcfcdc6c4cfcfccce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "610125",
+            "立法紀錄": "61卷8期461號 27-30頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cdc9c981c9cecbc7cfc7cfcfcfcec4cfcfcdc8c4cfcfcccf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcccfcfc5c7c8cad2c7c8c7"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "610125",
+            "立法紀錄": "61卷8期461號 30-30頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cdc9c981c9cecbc7cfc7cfcfcfcec4cfcfcccfc4cfcfcccf",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "610125",
+            "立法紀錄": "61卷8期461號 31-31頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cdc9c981c9cecbc7cfc7cfcfcfcec4cfcfcccec4cfcfccce",
+            "關係文書": []
+        }
+    ]
+}
