@@ -1,0 +1,91 @@
+{
+    "title": "利率管理條例",
+    "versions": [
+        "中華民國74年11月22日廢止",
+        "中華民國74年11月27日公布"
+    ],
+    "types": [
+        "廢止理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(利率管理之依據)",
+            "rule_no": "第一條",
+            "content": "　　利率之管理，依本條例之規定。",
+            "relates": {}
+        },
+        {
+            "note": "(存放款利率之規定)",
+            "rule_no": "第二條",
+            "content": "　　銀錢業存款利率，不得超過放款利率，放款利率之最高限度，由當地銀錢業同業公會斟酌金融市場情形，逐日擬定同業日拆及放款日拆，報請中央銀行核定牌告實施。",
+            "relates": {}
+        },
+        {
+            "note": "(銀錢業放款利率施行之標準)",
+            "rule_no": "第三條",
+            "content": "　　未設中央銀行施行之銀錢業放款利率，以距離最近地方之中央銀行牌告為標準。",
+            "relates": {}
+        },
+        {
+            "note": "(債權人請求權之限制)",
+            "rule_no": "第四條",
+            "content": "　　銀錢業放款利率超過當日中央銀行牌告日拆限度者，債權人對於超過部份無請求權。",
+            "relates": {}
+        },
+        {
+            "note": "(債權人請求權之限制)",
+            "rule_no": "第五條",
+            "content": "　　銀錢業以外之金錢債務，其約定利率不得超過訂約時當地中央銀行核定之放款日拆，超過者債權人對於超過部份無請求權。",
+            "relates": {}
+        },
+        {
+            "note": "(債權人之利率請求權)",
+            "rule_no": "第六條",
+            "content": "　　應付利息之金錢債務，其利率未經約定者，債權人得請求按照當地中央銀行核定之放款日拆二分之一計算。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第七條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　由於現今時勢變遷，利率在銀行法第四十一條及中央銀行法第二十二條另有規定，且貨幣市場利率近二年來均未超過民法第二百零五條之規定，故本條例已無繼續施行之必要，應予廢止之。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "740927",
+            "立法紀錄": "74卷78期1876號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcfcacccf81c8cbcfc8c7cfcfc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfcdcfcfc5cbcfd2cbcd"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "741028",
+            "立法紀錄": "75卷9期1911號 6-10頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcfcacccf81c8cacfcfc6cfcfc4cfcfcfc9c4cfcfcecf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "741115",
+            "立法紀錄": "74卷92期1890號 5-8頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcfcacccf81c8cbcfc6cdcfcfc4cfcfcfcac4cfcfcfc7",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "741122",
+            "立法紀錄": "74卷94期1892號 5-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcfcacccf81c8cbcfc6cbcfcfc4cfcfcfcac4cfcfcfc9",
+            "關係文書": []
+        }
+    ]
+}
