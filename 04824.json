@@ -1,0 +1,95 @@
+{
+    "title": "設治局組織條例",
+    "versions": [
+        "中華民國92年5月13日廢止",
+        "中華民國92年5月28日公布"
+    ],
+    "types": [
+        "廢止理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(立法依據)",
+            "rule_no": "第一條",
+            "content": "　　各省有籌設縣治必要之地方，得依本條例設置設治局。",
+            "relates": {}
+        },
+        {
+            "note": "(設治局之設置廢止及其區域之劃分)",
+            "rule_no": "第二條",
+            "content": "　　設治局之設置廢止及其區域之劃分，由省政府擬具圖說，送請內政部轉呈行政院核定之。\n　　設治局之設置廢止，應由行政院送請國民政府公布之。",
+            "relates": {}
+        },
+        {
+            "note": "(設治局得發布局令及制定單行規則)",
+            "rule_no": "第三條",
+            "content": "　　設治局於不牴觸中央及省之法令範圍內，得發布局令及單行規章。",
+            "relates": {}
+        },
+        {
+            "note": "(局長之職權)",
+            "rule_no": "第四條",
+            "content": "　　設治局置局長一人，受省政府之指揮、監督，辦理管轄區內行政事務，並監督、指揮所屬機關及職員。",
+            "relates": {}
+        },
+        {
+            "note": "(組織員額)",
+            "rule_no": "第五條",
+            "content": "　　設治局得按事務繁簡、設二科或三科，置秘書一人，科長二人或三人，科員雇員若干人。",
+            "relates": {}
+        },
+        {
+            "note": "(準用規定)",
+            "rule_no": "第六條",
+            "content": "　　設治局局長薦任，秘書科長科員均委任，其任用準用縣長及縣行政人員任用法規之規定。",
+            "relates": {}
+        },
+        {
+            "note": "(組織規程之擬訂及核定)",
+            "rule_no": "第七條",
+            "content": "　　設治局組織規程，由省政府擬訂，送請內政部轉呈行政院核定之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第八條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　本條例於民國20年6月2日由國民政府公布，民國33年7月9日修正，並於民國61年3月18日總統令暫停適用，復因地方制度法於民國88年1月25日公布施行，客觀情勢業已變更，無繼續適用之必要，爰予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "920328",
+            "立法紀錄": "92卷15期3289號一冊 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc8c8caca81c6cdcecacfcec4cfcfcfc9c4cfcfcfc9",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcacfcec5cccac9d2cac9cd"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "920421",
+            "立法紀錄": "92卷24期3298號下冊 37-42頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc8c8caca81c6cdcdcbcfccc4cfcfccc8c4cfcfcbcd",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "920513",
+            "立法紀錄": "92卷27期3301號上冊 103-117頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc8c8caca81c6cdcdc8cfcec4cfcecfccc4cfcecec8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccececfcdc5cbccc9d2cbcac6"
+                ]
+            ]
+        }
+    ]
+}
