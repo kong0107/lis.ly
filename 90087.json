@@ -1,0 +1,200 @@
+{
+    "title": "興建國民住宅貸款條例",
+    "versions": [
+        "中華民國64年7月1日廢止",
+        "中華民國64年7月12日公布"
+    ],
+    "types": [
+        "廢止理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(立法目的)",
+            "rule_no": "第一條",
+            "content": "　　為推廣興建國民住宅，保障長期低利貸款安全，制定本條例。",
+            "relates": {}
+        },
+        {
+            "note": "(辦理對象)",
+            "rule_no": "第二條",
+            "content": "　　興建國民住宅貸款，應就勞工、農民、漁民、公教人員及一般需要住宅之市民辦理之。",
+            "relates": {}
+        },
+        {
+            "note": "(貸款之定義)",
+            "rule_no": "第三條",
+            "content": "　　本條例所稱貸款，係指借款興建住宅或承購住宅，分期付款所發生債之關係而言。",
+            "relates": {}
+        },
+        {
+            "note": "(貸款償還期間)",
+            "rule_no": "第四條",
+            "content": "　　興建國民住宅貸款償還期間，不得少於十年，利率不得超過年息六釐。",
+            "relates": {}
+        },
+        {
+            "note": "(經辦事務機構)",
+            "rule_no": "第五條",
+            "content": "　　經辦興建國民住宅貸款事務之機構，由行政院定之。",
+            "relates": {}
+        },
+        {
+            "note": "(貸款承購房屋應簽訂契約)",
+            "rule_no": "第六條",
+            "content": "　　貸款承購房屋，應由經辦機構與承購人簽訂契約，載明標準價，並附建築圖式及施工說明，非經雙方同意，不得變更之。\n　　前項承購房屋之交接及分期還款契約之簽訂，於雙方會同驗收後行之。",
+            "relates": {}
+        },
+        {
+            "note": "(貸款機構就借款或承購所生之抵押權優先受償)",
+            "rule_no": "第七條",
+            "content": "　　借款人或承購人依本條例規定借款或申請承購房屋，貸款機構就該借款或承購關係所生之債權，自簽訂契約之日起，對於該項住宅有抵押權，優先受償。",
+            "relates": {}
+        },
+        {
+            "note": "(借款興建或承購住宅典賣或再抵押之限制)",
+            "rule_no": "第八條",
+            "content": "　　借款人或承購人依本條例規定，借款興建或承購之住宅，在借款或欠款還清前，不得典賣或再抵押。\n　　借款或欠款還清時，應由貸款機構給與證明文件。",
+            "relates": {}
+        },
+        {
+            "note": "(所有權之登記並記明借款或承購之事由)",
+            "rule_no": "第九條",
+            "content": "　　貸款機構與借款人或承購人簽訂契約後，應檢具契約副本、地籍謄本，通知該管地政機關為所有權之登記，並於登記簿記明借款或承購之事由。\n　　借款人或承購人就該住宅向該管地政機關聲請為所有權移轉登記時，應提出前條規定之證明文件。",
+            "relates": {}
+        },
+        {
+            "note": "(拍賣抵押物)",
+            "rule_no": "第十條",
+            "content": "　　借款人或承購人依本條例規定，借款興建或承購之住宅後，應依約分期還款，除民法第二百三十條之規定情形外，如逾期六個月不照約履行，經貸款機構定期催告，仍不履行者，即喪失分期攤還之權利，貸款機構得依民法第八百七十三條第一項之規定，拍賣抵押物。",
+            "relates": {}
+        },
+        {
+            "note": "(適用範圍)",
+            "rule_no": "第十一條",
+            "content": "　　凡以貸款興建國民住宅為目的，其貸款機構經行政院核定者，得適用本條例。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第十二條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　本條例係四十六年公布施行，其內容僅止於國民住宅貸款之有關事項，實施以來缺點甚多，例如貸款利率規定不得超過年息六厘，缺乏彈性，致政府補貼過多，為改進上述缺點，故訂定「國民住宅條例」，並將本法予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "640225",
+            "立法紀錄": "64卷17期771號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc7cfc981c9cbcacacec8cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "640310",
+            "立法紀錄": "64卷44期798號 25-33頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc7cfc981c9cbcacacbcbcfcfcfcdc4cfcfcdcac4cfcfcccc",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "640319",
+            "立法紀錄": "64卷45期799號 27-47頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc7cfc981c9cbcacacbcacfcfcfcdc4cfcfcdc8c4cfcfcbc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "640326",
+            "立法紀錄": "64卷46期800號 30-39頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc7cfc981c9cbcacacbc9cfcfcfcdc4cfcfcccfc4cfcfccc6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "640517",
+            "立法紀錄": "64卷47期801號 20-28頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc7cfc981c9cbcacacbc8cfcfcfcdc4cfcfcdcfc4cfcfcdc7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "640522",
+            "立法紀錄": "64卷50期804號 1-9頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc7cfc981c9cbcacacacfcfcfcfcdc4cfcfcfcec4cfcfcfc6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "640529",
+            "立法紀錄": "64卷51期805號 1-10頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc7cfc981c9cbcacacacecfcfcfcdc4cfcfcfcec4cfcfcecf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "640604",
+            "立法紀錄": "64卷52期806號 1-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc7cfc981c9cbcacacacdcfcfcfcdc4cfcfcfcec4cfcfcfc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "640607",
+            "立法紀錄": "64卷52期806號 8-8頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc7cfc981c9cbcacacacdcfcfcfcdc4cfcfcfc7c4cfcfcfc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "640613",
+            "立法紀錄": "64卷48期802號 13-37頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc7cfc981c9cbcacacbc7cfcfcfcec4cfcfceccc4cfcfccc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "640617",
+            "立法紀錄": "64卷49期803號 5-8頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc7cfc981c9cbcacacbc6cfcfcfcec4cfcfcfcac4cfcfcfc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "640617",
+            "立法紀錄": "64卷49期803號 8-18頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc7cfc981c9cbcacacbc6cfcfcfcec4cfcfcfc7c4cfcfcec7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "640620",
+            "立法紀錄": "64卷50期804號 5-25頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc7cfc981c9cbcacacacfcfcfcfcec4cfcfcfcac4cfcfcdca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "640624",
+            "立法紀錄": "64卷51期805號 20-25頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc7cfc981c9cbcacacacecfcfcfcec4cfcfcdcfc4cfcfcdca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "640627",
+            "立法紀錄": "64卷52期806號 2-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc7cfc981c9cbcacacacdcfcfcfcec4cfcfcfcdc4cfcfcfca",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "640701",
+            "立法紀錄": "64卷53期807號 2-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbccc7cfc981c9cbcacacacccfcfcfcec4cfcfcfcdc4cfcfcfcb",
+            "關係文書": []
+        }
+    ]
+}
