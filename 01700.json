@@ -1,0 +1,102 @@
+{
+    "title": "教育部國民體育委員會組織條例",
+    "versions": [
+        "中華民國88年12月7日廢止",
+        "中華民國88年12月29日公布"
+    ],
+    "types": [
+        "廢止理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(立法依據)",
+            "rule_no": "第一條",
+            "content": "　　本條例依國民體育法第四條第二項規定制定之。",
+            "relates": {}
+        },
+        {
+            "note": "(任務)",
+            "rule_no": "第二條",
+            "content": "　　教育部國民體育委員會（以下簡稱本會）之任務如左：\n　　一、關於全國體育政策之研擬事項。\n　　二、關於全國體育活動之指導事項。\n　　三、關於全國各機關團體、企業機構體育活動之協調、諮詢事項。\n　　四、關於全國國民體能檢查之研究、發展事項。\n　　五、關於全國體育活動之建議事項。",
+            "relates": {}
+        },
+        {
+            "note": "(委員資格)",
+            "rule_no": "第三條",
+            "content": "　　本會置委員十七人至二十三人，由教育部部長就左列人員，分別聘請之：\n　　一、中央有關單位主管人員。\n　　二、體育學者、專家。\n　　三、有關體育之教育主管人員。\n　　四、對體育活動有特殊貢獻者。\n　　五、熱心體育人士。",
+            "relates": {}
+        },
+        {
+            "note": "(無給職)",
+            "rule_no": "第四條",
+            "content": "　　本會委員為無給職，聘期兩年，期滿得續聘之。",
+            "relates": {}
+        },
+        {
+            "note": "(編制)",
+            "rule_no": "第五條",
+            "content": "　　本會置主任委員一人，由教育部部長兼任；執行秘書一人，由體育司司長兼任；其餘所需工作人員，由教育部組織法所定員額內調用之。",
+            "relates": {}
+        },
+        {
+            "note": "(召開會議)",
+            "rule_no": "第六條",
+            "content": "　　本會會議，每年舉行一次，必要時得召開臨時會議，均由主任委員召集之。\n　　前項會議，得邀請會外專家及有關單位人員列席。",
+            "relates": {}
+        },
+        {
+            "note": "(會議議決事項)",
+            "rule_no": "第七條",
+            "content": "　　本會會議議決事項，由教育部採行。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第八條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　教育部國民體育委員會之任務已由行政院體育委員會所承接，同時通過行政院體育委員會組織條例時曾作出附帶決議，要求行政院配合檢討修正或廢止教育部國民體育委員會組織條例。其次，民國八十七年公布的國民體育法業已修正刪除教育部設國民教育委員會之規定，因此配合廢止本法。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "880413",
+            "立法紀錄": "88卷17期3017號 1-1頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc8c8cbce81c7c7cec8cfcfc4cfcfcfcec4cfcfcfce",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfc8cfcfc5cdc9ccd2cdc9c9"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "881115",
+            "立法紀錄": "88卷52期3052號下冊 61-82頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc8c8cbce81c7c7cacdcfccc4cfcfc9cec4cfcfc7cd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "881207",
+            "立法紀錄": "88卷54期3054號上冊 182-184頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc8c8cbce81c7c7cacbcfcec4cfcec7cdc4cfcec7cb",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc6cfcbc5cecbcfd2cecbcc"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "881207",
+            "立法紀錄": "88卷54期3054號上冊 184-184頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc8c8cbce81c7c7cacbcfcec4cfcec7cbc4cfcec7cb",
+            "關係文書": []
+        }
+    ]
+}
