@@ -1,0 +1,91 @@
+{
+    "title": "戰略顧問委員會組織條例",
+    "versions": [
+        "中華民國86年4月18日廢止",
+        "中華民國86年5月7日公布"
+    ],
+    "types": [
+        "廢止理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(立法依據)",
+            "rule_no": "第一條",
+            "content": "　　本條例依總統府組織法第二十五條之規定制定之。",
+            "relates": {}
+        },
+        {
+            "note": "(戰略顧問之資格)",
+            "rule_no": "第二條",
+            "content": "　　戰略顧問委員會由總統就具有左列資格之一者特任上將或任命中將戰略顧問十九人至二十九人組織之，並特任一人為主任、一人為副主任。\n　　一、抵禦外侮或敉平禍亂，有勳勞於國家者。\n　　二、曾任重要軍職，富有軍事經驗者。\n　　三、富有軍事學術研究，聲譽卓著者。",
+            "relates": {}
+        },
+        {
+            "note": "(會議)",
+            "rule_no": "第三條",
+            "content": "　　戰略顧問委員會開會時，由主任召集之，並為會議時之主席；主任因事不能出席時，由副主任代理。",
+            "relates": {}
+        },
+        {
+            "note": "(總統交議與意見提供)",
+            "rule_no": "第四條",
+            "content": "　　戰略顧問委員會除總統交議者外，對於戰略及有關國防事項，得隨時向總統提供意見。",
+            "relates": {}
+        },
+        {
+            "note": "(機關提供資料或派員列席)",
+            "rule_no": "第五條",
+            "content": "　　戰略顧問委員會於必要時，得請有關機關提供參考資料或於會議時派員列席。",
+            "relates": {}
+        },
+        {
+            "note": "(編制)",
+            "rule_no": "第六條",
+            "content": "　　戰略顧問委員會設辦公室，其編制如附表。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第七條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　依中華民國總統府組織法第二十五條、第二十六條規定，總統府有國策顧問委員會、戰略顧問委員會及稽勳委員會之設置，但在八十五年一月修正通過的總統府組織法中，已無上述三委員會之設置規定，爰予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "850405",
+            "立法紀錄": "85卷14期2836號 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcfcd81c7cacecbcfcfc4cfcfcfcac4cfcfcfca",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcecfcccfcec5c9ccc9d2c9cbcd"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "851228",
+            "立法紀錄": "86卷2期2894號下冊 274-275頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcfcd81c7c9cfcdcfccc4cfcdc8cbc4cfcdc8ca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "860418",
+            "立法紀錄": "86卷18期2910號上冊 67-71頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcfcd81c7c9cec7cfcec4cfcfc9c8c4cfcfc8ce",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "860418",
+            "立法紀錄": "86卷18期2910號上冊 71-71頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcfcd81c7c9cec7cfcec4cfcfc8cec4cfcfc8ce",
+            "關係文書": []
+        }
+    ]
+}
