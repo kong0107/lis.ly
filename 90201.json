@@ -1,0 +1,104 @@
+{
+    "title": "民國三十年糧食庫券條例",
+    "versions": [
+        "中華民國62年5月22日停止適用",
+        "中華民國62年6月5日公布"
+    ],
+    "types": [
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(立法目的)",
+            "rule_no": "第一條",
+            "content": "　　國民政府在抗戰期間為供應軍糈調劑民食，特由財政部糧食部發行糧食庫券，為收購糧食支付代價之用。",
+            "relates": {}
+        },
+        {
+            "note": "(庫券之發行)",
+            "rule_no": "第二條",
+            "content": "　　本庫券由發行機關依三十年度需要收購糧食數量分別省區發行，於券面載明省區，並加縣名戳記。",
+            "relates": {}
+        },
+        {
+            "note": "(庫券之發行及償還)",
+            "rule_no": "第三條",
+            "content": "　　本庫券於中華民國三十年九月一日發行，自中華民國三十二年起，分五年平均償還，即自是年起，每年以面額五分之一抵繳各該省田賦應征之實物，至中華民國三十六年全數抵清。",
+            "relates": {}
+        },
+        {
+            "note": "(庫券之利率)",
+            "rule_no": "第四條",
+            "content": "　　本庫券利率定為週息五厘，以實物計算，即自中華民國三十二年起，隨同券面額按年抵繳各該省田賦應徵之實物，利隨本減。",
+            "relates": {}
+        },
+        {
+            "note": "(庫券之面額)",
+            "rule_no": "第五條",
+            "content": "　　本庫券面額分為一市斗、五市斗、一市石、五市石、十市石、一百市石六種，並分為稻穀小麥二類。",
+            "relates": {}
+        },
+        {
+            "note": "(庫券之擔保)",
+            "rule_no": "第六條",
+            "content": "　　本庫券以田賦征收實物征得糧食為擔保，並得充公務上之保證。",
+            "relates": {}
+        },
+        {
+            "note": "(庫券之偽造毀損信用)",
+            "rule_no": "第七條",
+            "content": "　　對於本庫券如有偽造毀損信用之行為者，由司法機關依法懲治。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第八條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "610104",
+            "立法紀錄": "61卷2期455號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcbcec6cd81c9cecbc7cfcdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "610119",
+            "立法紀錄": "61卷43期496號 49-53頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcbcec6cd81c9cecbc6cbcccfcfcfcdc4cfcfcbc6c4cfcfcacc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "610307",
+            "立法紀錄": "61卷19期472號 41-48頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcbcec6cd81c9cecbc6cec6cfcfcfcec4cfcfcbcec4cfcfcbc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "610310",
+            "立法紀錄": "61卷20期473號 2-15頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcbcec6cd81c9cecbc6cdcfcfcfcfcec4cfcfcfcdc4cfcfceca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "610317",
+            "立法紀錄": "61卷22期475號 4-13頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcbcec6cd81c9cecbc6cdcdcfcfcfcec4cfcfcfcbc4cfcfcecc",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "620522",
+            "立法紀錄": "62卷38期594號 11-22頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcbcec6cd81c9cdcaceccc7cfcfcfcec4cfcfcecec4cfcfcdcd",
+            "關係文書": []
+        }
+    ]
+}
