@@ -1,0 +1,180 @@
+{
+    "title": "財務罰鍰處理暫行條例",
+    "versions": [
+        "中華民國93年4月9日修正",
+        "中華民國93年4月21日公布"
+    ],
+    "types": [
+        "異動條文及理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(適用範圍)",
+            "rule_no": "第一條",
+            "content": "　　凡依各項財務法規科處之罰鍰及沒收沒入之財物變價，概依本暫行條例處理之，其性質屬於行政罰而稱為罰金者，亦同。",
+            "relates": {}
+        },
+        {
+            "note": "(儘先扣繳稅款)",
+            "rule_no": "第二條",
+            "content": "　　凡沒收、沒入之財物依法應行納稅者，就其變價款內儘先扣繳稅款。",
+            "relates": {}
+        },
+        {
+            "note": "(提獎辦法)",
+            "rule_no": "第三條",
+            "content": "　　罰鍰或罰金及沒收、沒入之財物變價，除前條之規定扣繳稅款，並依第二項規定先行提獎外，應悉數解庫，其收支全部應編列預算。\n　　經人舉發而緝獲之案件，就其淨額提撥舉發人不超過百分之二十獎金。但執行稅賦查核人員之三等親以內之舉發人不得領取獎金。",
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01509",
+                        "law_name": "財務罰鍰處理暫行條例",
+                        "numbers": [
+                            "第五條",
+                            "第六條"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "note": "(每案獎金之最高額限)",
+            "rule_no": "第四條",
+            "content": "　　前條之舉發人獎金每案最高額度以新臺幣四百八十萬元為限。",
+            "relates": {}
+        },
+        {
+            "note": "(滯納金不適用提獎規定)",
+            "rule_no": "第五條",
+            "content": "　　各項稅捐之滯納金，不適用本條例第三條提獎之規定。",
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01509",
+                        "law_name": "財務罰鍰處理暫行條例",
+                        "numbers": [
+                            "第三條"
+                        ]
+                    }
+                ],
+                "被引用條文": [
+                    {
+                        "law_no": "01509",
+                        "law_name": "財務罰鍰處理暫行條例",
+                        "numbers": [
+                            "第六條"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "note": "(應解庫部分與滯納金之歸入公庫)",
+            "rule_no": "第六條",
+            "content": "　　第三條之應解庫部份及前條之滯納金，分別歸入各該本稅所屬政府之公庫。",
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01509",
+                        "law_name": "財務罰鍰處理暫行條例",
+                        "numbers": [
+                            "第三條",
+                            "第五條"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "note": "(提獎數額之分類冊報)",
+            "rule_no": "第七條",
+            "content": "　　辦理是項案件之機關屬於中央者，每月應將提獎分配數額分類冊報行政院，屬於地方者，冊報省政府或其同等機關。",
+            "relates": {}
+        },
+        {
+            "note": "(不得獎之沒收沒入財物變價)",
+            "rule_no": "第八條",
+            "content": "　　違反特種刑法及國家總動員法所沒收沒入之財物變價，除法律另有規定外，不得提獎。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第九條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第三條": "　　增列第二項。並規定三等親內之舉發人不得領取該獎金。另對於查緝獎金之條文應全數刪除。",
+        "第四條": "　　酌作文字修正，並刪除後段文字。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "920605",
+            "立法紀錄": "92卷34期3308號一冊 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcecbc9cf81c6cdcccbcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "朱星羽",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecacfcec5cccbc7d2cccacc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "930102",
+            "立法紀錄": "93卷4期3338號上冊 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcecbc9cf81c6cccfcbcfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "廖本煙",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcec9cfcec5c9cac8d2c9cac6"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "921023",
+            "立法紀錄": "92卷48期3322號下冊 195-218頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcecbc9cf81c6cdcbc7cfccc4cfcec6cac4cfcdcec7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "921204",
+            "立法紀錄": "92卷57期3331號一冊 36-42頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcecbc9cf81c6cdcac8cfcec4cfcfccc9c4cfcfcbcd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacfc7cfccc5ccd2ca"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "930402",
+            "立法紀錄": "93卷19期3353號上冊 28-31頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcecbc9cf81c6cccec6cfcec4cfcfcdc7c4cfcfccce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "940409",
+            "立法紀錄": "93卷20期3354號上冊 27-36頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcecbc9cf81c6cccdcfcfcec4cfcfcdc8c4cfcfccc9",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "940409",
+            "立法紀錄": "93卷20期3354號上冊 36-36頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbcecbc9cf81c6cccdcfcfcec4cfcfccc9c4cfcfccc9",
+            "關係文書": []
+        }
+    ]
+}
