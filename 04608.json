@@ -1,0 +1,109 @@
+{
+    "title": "非常時期特種考試暫行條例",
+    "versions": [
+        "中華民國82年4月8日廢止",
+        "中華民國82年4月21日公布"
+    ],
+    "types": [
+        "廢止理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(依據)",
+            "rule_no": "第一條",
+            "content": "　　非常時期舉辦特種考試，除縣長考試外，依本條例之規定行之。",
+            "relates": {}
+        },
+        {
+            "note": "(考試之舉行)",
+            "rule_no": "第二條",
+            "content": "　　特種考試，由考試院依事實上之需要，隨時舉行之。",
+            "relates": {}
+        },
+        {
+            "note": "(考試分類)",
+            "rule_no": "第三條",
+            "content": "　　特種考試之分類、分科考試科目及應考資格，由考試院定之。但相當於高等考試者之應考資格，依考試法第七條之規定。",
+            "relates": {}
+        },
+        {
+            "note": "(初試及再試)",
+            "rule_no": "第四條",
+            "content": "　　特種考試，得分初試及再試，其初試、再試並得各分若干試，由考試院依考試類別定之。",
+            "relates": {}
+        },
+        {
+            "note": "(考試之辦理)",
+            "rule_no": "第五條",
+            "content": "　　舉行特種考試，得不設典試委員會及試務處，由考試院派員辦理考試事宜。其相當於普通考試者，得委託各該任用機關辦理之。",
+            "relates": {}
+        },
+        {
+            "note": "(監察院派員監試)",
+            "rule_no": "第六條",
+            "content": "　　考試院派員或委託各該任用機關辦理特種考試時，得由考試院咨請監察院派員監試。",
+            "relates": {}
+        },
+        {
+            "note": "(本法之準用)",
+            "rule_no": "第七條",
+            "content": "　　非常時期舉行高等考試及普通考試，得準用第二條及第六條之規定，並得不設試務處。",
+            "relates": {}
+        },
+        {
+            "note": "(適用法律之規定)",
+            "rule_no": "第八條",
+            "content": "　　本條例未經規定事項，適用考試法、典試法、監試法之規定。",
+            "relates": {}
+        },
+        {
+            "note": "(施行細則之訂定)",
+            "rule_no": "第九條",
+            "content": "　　本條例施行細則，由考試院定之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第十條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　此條例係行憲前所制定公布，距今達四十餘年，與現行之「憲法」、「公職人員選舉罷免法」及「公務人員考試法」多所牴觸，未合時宜，實無繼續施行之必要，爰予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "801226",
+            "立法紀錄": "81卷1期2529號上冊 10-14頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7ccc8cf81c7cecfcfcecfcec4cfcfcecfc4cfcfcecb",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cdcccfcec5c6ced2cecfcb"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "810617",
+            "立法紀錄": "81卷51期2579號下冊 97-99頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7ccc8cf81c7cecfcacecfccc4cfcfc6c8c4cfcfc6c6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "820408",
+            "立法紀錄": "82卷20期2619號上冊 13-21頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7ccc8cf81c7cdcdcfcfcec4cfcfceccc4cfcfcdce",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "820408",
+            "立法紀錄": "82卷20期2619號上冊 21-30頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7ccc8cf81c7cdcdcfcfcec4cfcfcdcec4cfcfcccf",
+            "關係文書": []
+        }
+    ]
+}
