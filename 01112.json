@@ -1,0 +1,97 @@
+{
+    "title": "褒揚抗戰忠烈條例",
+    "versions": [
+        "中華民國75年11月18日廢止",
+        "中華民國75年11月28日公布"
+    ],
+    "types": [
+        "廢止理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(褒揚之依據)",
+            "rule_no": "第一條",
+            "content": "　　凡抗禦外侮忠勇義烈之官兵、人民，合於左列各款之一者，依本條例褒揚之：\n　　一、殺敵致果，建立殊勛者。\n　　二、盡力守土，忠勇特著者。\n　　三、臨難不屈，以身殉國，或不受敵人利誘威脅，致傷亡或拘囚者。\n　　四、舉義鄉里，抵抗敵人，或毀壞敵用重要戰具者。\n　　五、毀家紓難，或計劃守土，著有功績者。\n　　六、個人或全家或全村與敵人搏鬥，致傷亡或被燬者。\n　　七、因守土傷亡者。\n　　八、其他忠勇義烈事蹟，足資矜式者。",
+            "relates": {}
+        },
+        {
+            "note": "(褒揚方法)",
+            "rule_no": "第二條",
+            "content": "　　褒揚方法如左：\n　　一、國民政府明令褒揚，行政院院令褒揚，或內政部部令褒揚。\n　　二、國民政府題頒匾額，行政院題頒匾額，或內政部題頒匾額。\n　　三、國葬，公葬或入葬國殤墓園。\n　　四、入祀忠烈祠，或建立紀念坊碑。\n　　五、事蹟宣付國史館，或令刊入省志、縣志。",
+            "relates": {}
+        },
+        {
+            "note": "(褒揚之程序)",
+            "rule_no": "第三條",
+            "content": "　　應受褒揚之忠勇義烈官兵、人民，由主管機關詳填事蹟，並檢同證明文件，轉內政部核定或核議轉呈核定。",
+            "relates": {}
+        },
+        {
+            "note": "(地方政府轉請褒揚)",
+            "rule_no": "第四條",
+            "content": "　　應受褒揚之鄉鄰，或事蹟表著地之公正人士，亦得連名臚列事實，聲請該管地方政府轉請褒揚。",
+            "relates": {}
+        },
+        {
+            "note": "(獎金或卹金)",
+            "rule_no": "第五條",
+            "content": "　　受褒揚人除依法獎卹外，必要時，得特給獎金或卹金。\n　　前項獎金、卹金由國庫支給。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第六條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　因褒揚條例之修正公布，有關褒獎之內容都已歸併其中，且依中央法規標準法之規定，同一事項已定有新法規者，廢止之。且本法因抗戰勝利已四十多年，該褒揚的已經褒揚，故不再適用。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "750530",
+            "立法紀錄": "75卷44期1946號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7ccccc6cec8cf81c8cacfcbcbcfcfc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c8cececfcfc5cdcdd2cbcf"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "751015",
+            "立法紀錄": "76卷8期2015號 58-66頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7ccccc6cec8cf81c8c9cfcfc7cfcfc4cfcfcac7c4cfcfc9c9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "751022",
+            "立法紀錄": "76卷9期2016號 2-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7ccccc6cec8cf81c8c9cfcfc6cfcfc4cfcfcfcdc4cfcfcfca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "751114",
+            "立法紀錄": "75卷92期1994號 8-23頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7ccccc6cec8cf81c8cacfc6cdcfcfc4cfcfcfc7c4cfcfcdcc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c7cfcacfcfc5c9c6c9d2c8cfc7"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "751118",
+            "立法紀錄": "75卷93期1995號 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7ccccc6cec8cf81c8cacfc6cccfcfc4cfcfcfc9c4cfcfcfc9",
+            "關係文書": []
+        }
+    ]
+}
