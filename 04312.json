@@ -1,0 +1,106 @@
+{
+    "title": "總統副總統宣誓條例",
+    "versions": [
+        "中華民國43年5月7日制定",
+        "中華民國43年5月13日公布"
+    ],
+    "types": [
+        "立法歷程",
+        "異動條文"
+    ],
+    "law_data": [
+        {
+            "note": "(立法目的)",
+            "rule_no": "第一條",
+            "content": "　　總統、副總統宣誓，依本條例之規定。",
+            "relates": {}
+        },
+        {
+            "note": "(宣誓日)",
+            "rule_no": "第二條",
+            "content": "　　總統、副總統宣誓，於總統就職之日行之。",
+            "relates": {}
+        },
+        {
+            "note": "(總統誓詞)",
+            "rule_no": "第三條",
+            "content": "　　總統之誓詞，依憲法第四十八條之規定。\n　　副總統之誓詞如左：\n　　（余謹以至誠，向全國人民宣誓。余必遵守憲法，效忠國家，如違誓言，願受國家嚴厲之制裁。謹誓。）",
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "04101",
+                        "law_name": "中華民國憲法",
+                        "numbers": [
+                            "第四十八條"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "note": "(宣誓儀式之監誓人)",
+            "rule_no": "第四條",
+            "content": "　　總統、副總統宣誓，於中央政府所在地，以公開儀式分別行之，由大法官會議主席為監誓人。",
+            "relates": {}
+        },
+        {
+            "note": "(宣誓)",
+            "rule_no": "第五條",
+            "content": "　　總統、副總統宣誓時，肅立向國旗及國父遺像，舉右手向上伸直，手掌放開，五指併攏，掌心向前，宣讀誓詞。",
+            "relates": {}
+        },
+        {
+            "note": "(誓詞之簽名)",
+            "rule_no": "第六條",
+            "content": "　　總統、副總統宣誓後，分別於誓詞上簽名、蓋章，送監誓人之機關存查。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第七條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "430427",
+            "立法紀錄": "43卷13期號4冊 57-57頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc8c6c6cb81cbcccecccfcbc4cfcfcac8c4cfcfcac8",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5cececcd2cececb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "430507",
+            "立法紀錄": "43卷13期號4冊 54-56頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc8c6c6cb81cbcccecccfcbc4cfcfcacbc4cfcfcac9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5cdcfc7d2cdcecf"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "430507",
+            "立法紀錄": "43卷13期號4冊 97-102頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc8c6c6cb81cbcccecccfcbc4cfcfc6c8c4cfcecfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "430507",
+            "立法紀錄": "43卷13期號4冊 102-102頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc8c6c6cb81cbcccecccfcbc4cfcecfcdc4cfcecfcd",
+            "關係文書": []
+        }
+    ]
+}
