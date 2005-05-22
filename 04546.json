@@ -1,0 +1,138 @@
+{
+    "title": "殘害人群治罪條例",
+    "versions": [
+        "中華民國42年5月8日制定",
+        "中華民國42年5月22日公布"
+    ],
+    "types": [
+        "立法歷程",
+        "異動條文"
+    ],
+    "law_data": [
+        {
+            "note": "(立法目的)",
+            "rule_no": "第一條",
+            "content": "　　為防止及懲治殘害人群罪，特制定本條例。",
+            "relates": {}
+        },
+        {
+            "note": "(性質與範圍)",
+            "rule_no": "第二條",
+            "content": "　　意圖全部或一部消滅某一民族、種族或宗教之團體，而有左列行為之一者，為殘害人群罪，處死刑、無期徒刑或七年以上有期徒刑：\n　　一、殺害團體之分子者。\n　　二、使該團體之分子遭受身體上或精神上之嚴重傷害者。\n　　三、以某種生活狀況加於該團體，足以使其全部或一部在形體上歸於消滅者。\n　　四、以強制方法妨害團體分子之生育者。\n　　五、誘掠兒童脫離其所屬之團體者。\n　　六、用其他陰謀方法破壞其團體，足以使其消滅者。\n　　前項之未遂犯罰之。\n　　預備或陰謀犯第一項之罪者，處一年以上、七年以下有期徒刑。",
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "04546",
+                        "law_name": "殘害人群治罪條例",
+                        "numbers": [
+                            "第三條",
+                            "第四條"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "note": "(煽動殘害人群罪)",
+            "rule_no": "第三條",
+            "content": "　　公然煽動他人犯前條第一項之罪者，處無期徒刑或七年以上有期徒刑。",
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "04546",
+                        "law_name": "殘害人群治罪條例",
+                        "numbers": [
+                            "第二條"
+                        ]
+                    }
+                ],
+                "被引用條文": [
+                    {
+                        "law_no": "04546",
+                        "law_name": "殘害人群治罪條例",
+                        "numbers": [
+                            "第四條"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "note": "(時之效力)",
+            "rule_no": "第四條",
+            "content": "　　犯前二條之罪者，不論其犯罪係在平時或戰時，均適用本條例之規定。",
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "04546",
+                        "law_name": "殘害人群治罪條例",
+                        "numbers": [
+                            "第二條",
+                            "第三條"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "note": "(人之效力)",
+            "rule_no": "第五條",
+            "content": "　　犯本條例之罪者，不論具有何種身分，一律適用本條例之規定。",
+            "relates": {}
+        },
+        {
+            "note": "(一審管轄法院)",
+            "rule_no": "第六條",
+            "content": "　　犯本條例之罪者，其第一審由高等法院或分院管轄之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第七條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "420505",
+            "立法紀錄": "42卷11期號7冊 16-30頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc9cfcecf81cbcdcececfc8c4cfcfcec9c4cfcfcccf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcecfcfc5ccc9cad2ccc8ca"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "420505",
+            "立法紀錄": "42卷11期號7冊 33-34頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc9cfcecf81cbcdcececfc8c4cfcfccccc4cfcfcccb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "420505",
+            "立法紀錄": "42卷11期號7冊 34-43頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc9cfcecf81cbcdcececfc8c4cfcfcccbc4cfcfcbcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "420508",
+            "立法紀錄": "42卷11期號7冊 53-54頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc9cfcecf81cbcdcececfc8c4cfcfcaccc4cfcfcacb",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "420508",
+            "立法紀錄": "42卷11期號7冊 54-56頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc9cfcecf81cbcdcececfc8c4cfcfcacbc4cfcfcac9",
+            "關係文書": []
+        }
+    ]
+}
