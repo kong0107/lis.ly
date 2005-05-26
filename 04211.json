@@ -1,0 +1,291 @@
+{
+    "title": "國民大會職權行使法",
+    "versions": [
+        "中華民國94年5月20日制定",
+        "中華民國94年5月27日公布"
+    ],
+    "types": [
+        "異動條文及理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(立法依據)",
+            "rule_no": "第一條",
+            "content": "　　本法依憲法第三十四條及憲法增修條文第一條制定之。\n　　本法未規定者，適用其他法律之規定。",
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "04101",
+                        "law_name": "中華民國憲法",
+                        "numbers": [
+                            "第三十四條"
+                        ]
+                    },
+                    {
+                        "law_no": "04105",
+                        "law_name": "中華民國憲法增修條文",
+                        "numbers": [
+                            "第一條"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "note": "(集會)",
+            "rule_no": "第二條",
+            "content": "　　國民大會代表於選舉結果確認後十日內自行集會，集會以一個月為限。其集會首日由當選國民大會代表所屬之各政黨、選舉聯盟（以下簡稱聯盟）協商決定之。",
+            "relates": {}
+        },
+        {
+            "note": "(立院提案之印送)",
+            "rule_no": "第三條",
+            "content": "　　國民大會秘書處應於國民大會集會前，將立法院所提之憲法修正案、領土變更案或總統、副總統彈劾案，印送全體代表。\n　　立法院應於國民大會集會時，派員至國民大會集會地點，向全體代表說明立法院所提之憲法修正案、領土變更案或總統、副總統彈劾案之提案要旨。",
+            "relates": {}
+        },
+        {
+            "note": "(預備會議)",
+            "rule_no": "第四條",
+            "content": "　　國民大會於開議日舉行預備會議，進行代表宣誓。\n　　開議日之預備會議主席，由當選名額最多之政黨、聯盟，其推薦名單排列次序列於首位者擔任之。",
+            "relates": {}
+        },
+        {
+            "note": "(主席團主席)",
+            "rule_no": "第五條",
+            "content": "　　國民大會設主席團主席十一人，負責主持會議。",
+            "relates": {}
+        },
+        {
+            "note": "(議事日程)",
+            "rule_no": "第六條",
+            "content": "　　議事日程之排定，由主席團主席共同決定之。",
+            "relates": {}
+        },
+        {
+            "note": "(開議額數)",
+            "rule_no": "第七條",
+            "content": "　　國民大會集會非有代表總額三分之一以上人數之出席，不得開議。",
+            "relates": {}
+        },
+        {
+            "note": "(記名投票)",
+            "rule_no": "第八條",
+            "content": "　　政黨、聯盟推薦之國民大會代表行使職權時，應依其所屬政黨、聯盟在選票所刊印之贊成或反對意見，以記名投票之方式為之。其違反者，以廢票論。",
+            "relates": {}
+        },
+        {
+            "note": "(立院提案應為全案複決)",
+            "rule_no": "第九條",
+            "content": "　　國民大會代表對於立法院所提之憲法修正案、領土變更案，應為全案複決，並不得再為修正之動議。",
+            "relates": {}
+        },
+        {
+            "note": "(複決)",
+            "rule_no": "第十條",
+            "content": "　　憲法修正案，經立法院派員說明提案要旨後，不經討論，應即行使複決，經國民大會代表總額四分之三以上之同意者，該憲法修正案即為通過。\n　　領土變更案，經立法院派員說明提案要旨後，不經討論，應即行使複決，經國民大會代表總額三分之二以上之出席，出席代表四分之三以上之同意者，該領土變更案即為通過。\n　　總統、副總統彈劾案，經立法院派員說明提案要旨後，不經討論，應即行使表決，經國民大會代表總額三分之二以上之同意者，該總統、副總統彈劾案即為通過。",
+            "relates": {}
+        },
+        {
+            "note": "(咨請總統公布)",
+            "rule_no": "第十一條",
+            "content": "　　憲法修正案、領土變更案複決結果確定後，三日內由國民大會咨請總統公布。",
+            "relates": {}
+        },
+        {
+            "note": "(解職即行生效)",
+            "rule_no": "第十二條",
+            "content": "　　會議主席宣告總統、副總統彈劾案通過時，被彈劾人之解職即行生效。",
+            "relates": {}
+        },
+        {
+            "note": "(公告及通知)",
+            "rule_no": "第十三條",
+            "content": "　　總統、副總統彈劾案議決結果確定後，三日內由國民大會公告之，並通知立法院及被彈劾人。",
+            "relates": {}
+        },
+        {
+            "note": "(終止審議)",
+            "rule_no": "第十四條",
+            "content": "　　國民大會審議總統、副總統彈劾案時，被彈劾人辭職或死亡，即終止審議。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第十五條",
+            "content": "　　本法自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第一條": "　　一、明定本法制定依據。\n　　二、第二項明定本法未規定者，適用其他法律之規定。",
+        "第二條": "　　一、明定國民大會集會方式。\n　　二、憲法增修條文第一條規定國民大會代表於選舉結果確認後十日內自行集會，惟其首日集會時間，應由各政黨、選舉聯盟協商決定之。",
+        "第三條": "　　明定立法院應印送提案給全體代表，並由該議案之立法院院會說明人向國民大會說明提案要旨。",
+        "第四條": "　　明定國民大會舉行預備會議之程序及主席產生方式。",
+        "第五條": "　　明定國民大會主席團主席之人數、職權。",
+        "第六條": "　　明定議事日程由國民大會主席團主席排定。",
+        "第七條": "　　明定國民大會法定開會人數。",
+        "第八條": "　　國民大會代表應為命令委任，而非自由委任。國民大會代表行使職權時，應依其所屬政黨、聯盟在選票所刊印之贊成或反對意見，以記名投票之方式為之。此表明，國民大會代表於行使職權時，不得違背選舉時，所屬政黨或聯盟之主張。",
+        "第九條": "　　憲法修正案及領土變更案係由立法院依憲法第一百七十四條第二款及增修條文第四條規定，以四分之三以上之立法委員決議後提出，並經公告半年使國民預知其修正之目的，最後透過國民大會代表選舉賦予國民表達意見之機會，故國民大會代表僅能就憲法修正案及領土變更案表達肯否之複決，不得進行任何形式之修正提案，以符合複決之意旨。",
+        "第十條": "　　國民大會代表為人民命令委任，針對立法院所提之憲法修正案、領土變更案或總統、副總統彈劾案進行複決，無需再有議事權。",
+        "第十一條": "　　明定憲法修正案、領土變更案複決結果之公布方式。",
+        "第十二條": "　　依憲法增修條文第二條第十項之規定，國民大會通過彈劾案時，被彈劾人應即解職。爰明定大會主席宣告彈劾案通過時，被彈劾人之解職即行生效。",
+        "第十三條": "　　明定總統、副總統彈劾案議決結果之公告方式。",
+        "第十四條": "　　明定被彈劾人辭職或死亡，即終止總統、副總統彈劾案審議程序。",
+        "第十五條": "　　明定本法之施行日期。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "940318",
+            "立法紀錄": "94卷12期3394號 1-1頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcacd81c6cbcecdcfcfc4cfcfcfcec4cfcfcfce",
+            "主提案": "呂學樟",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcbcfcec5c8cbd2c8c8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "940318",
+            "立法紀錄": "94卷12期3394號 1-1頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcacd81c6cbcecdcfcfc4cfcfcfcec4cfcfcfce",
+            "主提案": "陳杰",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcbcfcec5c8c7d2c7cf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "940318",
+            "立法紀錄": "94卷12期3394號 1-1頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcacd81c6cbcecdcfcfc4cfcfcfcec4cfcfcfce",
+            "主提案": "親民黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcbcfcec5c7cdd2c7cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "940318",
+            "立法紀錄": "94卷12期3394號 1-1頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcacd81c6cbcecdcfcfc4cfcfcfcec4cfcfcfce",
+            "主提案": "無黨團結聯盟黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcbcfcec5c7c9d2c7c7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "940318",
+            "立法紀錄": "94卷12期3394號 1-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcacd81c6cbcecdcfcfc4cfcfcfcec4cfcfcfcd",
+            "主提案": "民進黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcdcfcec5cdcac7d2cdc9cf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "940325",
+            "立法紀錄": "94卷14期3396號一冊 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcacd81c6cbcecbcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "陳金德",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcacfcec5c7cad2c7c6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "940408",
+            "立法紀錄": "94卷20期3402號一冊 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcacd81c6cbcdcfcfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "台聯黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfc8cfcdc5cdc9ced2cdc9cc"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "940407",
+            "立法紀錄": "94卷25期3407號二冊 3-52頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcacd81c6cbcdcacfcdc4cfcfcfccc4cfcfcacd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "940413",
+            "立法紀錄": "94卷27期3409號 1-12頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcacd81c6cbcdc8cfcfc4cfcfcfcec4cfcfcecd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "940503",
+            "立法紀錄": "94卷28期3410號一冊 272-319頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcacd81c6cbcdc7cfcec4cfcdc8cdc4cfcccec6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececfcfcdc5cdcccbd2cdc7cd"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "940510",
+            "立法紀錄": "94卷30期3412號 213-213頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcacd81c6cbcccfcfcfc4cfcdceccc4cfcdcecc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "940513",
+            "立法紀錄": "94卷34期3416號 43-43頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcacd81c6cbcccbcfcfc4cfcfcbccc4cfcfcbcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "940520",
+            "立法紀錄": "94卷37期3419號一冊 188-189頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcacd81c6cbccc8cfcec4cfcec7c7c4cfcec7c6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "940520",
+            "立法紀錄": "94卷37期3419號一冊 190-191頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcacd81c6cbccc8cfcec4cfcec6cfc4cfcec6ce",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "940520",
+            "立法紀錄": "94卷37期3419號一冊 191-192頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcacd81c6cbccc8cfcec4cfcec6cec4cfcec6cd",
+            "關係文書": []
+        }
+    ]
+}
