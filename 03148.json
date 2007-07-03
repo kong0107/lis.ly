@@ -1,0 +1,125 @@
+{
+    "title": "行政院農業委員會水土保持局組織法",
+    "versions": [
+        "中華民國96年6月15日制定",
+        "中華民國96年7月4日公布"
+    ],
+    "types": [
+        "異動條文及理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(立法目的)",
+            "rule_no": "第一條",
+            "content": "　　行政院農業委員會為辦理水土保持業務，特設水土保持局（以下簡稱本局）。",
+            "relates": {}
+        },
+        {
+            "note": "(掌理事項)",
+            "rule_no": "第二條",
+            "content": "　　本局掌理下列事項：\n　　一、水土保持與山坡地保育利用政策、法規、計畫之擬訂、執行及督導。\n　　二、集水區與河川界點以上野溪之水土保持調查、規劃、保育、治理及督導。\n　　三、農村建設政策與計畫之擬訂、策劃、執行及督導。\n　　四、山坡地水土保持與植生綠化之策劃、執行及督導。\n　　五、山坡地保育利用管理與監測之策劃、推動、督導及考核。\n　　六、土石流災害應變與防治之策劃、協調、執行及督導。\n　　七、水土保持與農村建設推廣教育、宣導及人才培育之策劃、推動及聯繫。\n　　八、水土保持與農村研究發展之策劃及推動。\n　　九、其他有關水土保持及農村建設事項。",
+            "relates": {}
+        },
+        {
+            "note": "(局長、副局長之設置及職等)",
+            "rule_no": "第三條",
+            "content": "　　本局置局長一人，職務列簡任第十三職等；副局長二人，職務列簡任第十二職等。",
+            "relates": {}
+        },
+        {
+            "note": "(主任秘書之設置)",
+            "rule_no": "第四條",
+            "content": "　　本局置主任秘書一人，職務列簡任第十一職等。",
+            "relates": {}
+        },
+        {
+            "note": "(分局之設置)",
+            "rule_no": "第五條",
+            "content": "　　本局為辦理各地區水土保持及農村建設業務，得設分局。",
+            "relates": {}
+        },
+        {
+            "note": "(編制表另定)",
+            "rule_no": "第六條",
+            "content": "　　本局各職稱之官等職等及員額，另以編制表定之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第七條",
+            "content": "　　本法自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第一條": "　　本法制定之法源依據。",
+        "第二條": "　　明定本局業務職掌事項。",
+        "第三條": "　　本局局長及副局長職務列等。",
+        "第四條": "　　本局主任秘書之職務列等。",
+        "第五條": "　　為有效執行水土保持及農村建設事務，明定本局得依實際需要，劃分工作地區，並設分局。",
+        "第六條": "　　為使本局各職稱之官等、職等及員額訂定有所依據，爰授權另以編制表定之。",
+        "第七條": "　　本法施行日期。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "960518",
+            "立法紀錄": "96卷43期3566號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc9c6cecc81c6c9cbcccfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "無黨團結聯盟黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacecccfcec5cecdc7d2cecccd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "960608",
+            "立法紀錄": "96卷52期3575號 13-14頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc9c6cecc81c6c9cacdcfcfc4cfcfceccc4cfcfcecb",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacec9cfcec5cdcaced2cdcaca"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "960530",
+            "立法紀錄": "96卷50期3573號 237-247頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc9c6cecc81c6c9cacfcfcfc4cfcdccc8c4cfcdcbc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "960614",
+            "立法紀錄": "96卷54期3577號一冊 20-36頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc9c6cecc81c6c9cacbcfcec4cfcfcdcfc4cfcfccc9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacec9cfcdc5cdc8cbd2cdc6cf"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "960615",
+            "立法紀錄": "96卷54期3577號三冊 885-887頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc9c6cecc81c6c9cacbcfccc4cfc7c7cac4cfc7c7c8",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "960615",
+            "立法紀錄": "96卷54期3577號三冊 887-887頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc9c6cecc81c6c9cacbcfccc4cfc7c7c8c4cfc7c7c8",
+            "關係文書": []
+        }
+    ]
+}
