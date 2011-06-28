@@ -1,0 +1,105 @@
+{
+    "title": "法務部法醫研究所組織法",
+    "versions": [
+        "中華民國100年6月14日制定",
+        "中華民國100年6月29日公布"
+    ],
+    "types": [
+        "異動條文及理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(設立宗旨)",
+            "rule_no": "第一條",
+            "content": "　　法務部為處理法醫鑑驗、人員培訓及法醫科技研究發展事項，特設法醫研究所（以下簡稱本所）。",
+            "relates": {}
+        },
+        {
+            "note": "(職掌)",
+            "rule_no": "第二條",
+            "content": "　　本所掌理下列事項：\n　　一、身體、病理及死因之勘驗、檢驗、鑑定及研究。\n　　二、藥毒物之勘驗、檢驗、鑑定及研究。\n　　三、刑事證物之勘驗、檢驗、鑑定及研究。\n　　四、法醫學上疑難鑑驗之解釋及研究。\n　　五、各地方法院檢察署法醫業務指導及監督。\n　　六、法醫人員之培訓。\n　　七、其他有關法醫學之研究及發展事項。",
+            "relates": {}
+        },
+        {
+            "note": "(正、副所長之設置)",
+            "rule_no": "第三條",
+            "content": "　　本所置所長一人，職務列簡任第十二職等至第十三職等，必要時得依醫事人員人事條例規定，由師???級之相關醫事人員擔任；副所長一人，職務列簡任第十一職等至第十二職等。",
+            "relates": {}
+        },
+        {
+            "note": "(職務列等及員額配置另定之)",
+            "rule_no": "第四條",
+            "content": "　　本所各職稱之官等職等及員額，另以編制表定之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第五條",
+            "content": "　　本法施行日期，由行政院以命令定之。",
+            "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第一條": "　　法務部法醫研究所之設立目的及隸屬關係。",
+        "第二條": "　　本所之權限職掌。",
+        "第三條": "　　本所首長、副首長之職稱、官職等及員額。",
+        "第四條": "　　中央政府機關總員額法第六條雖已授權各機關訂定編制表，惟考量如僅於第三條及第四條規定首長、副首長及幕僚長之配置，將難窺知機關人員配置及運作之全貌，爰於本條再予重申。",
+        "第五條": "　　本法之施行日期。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "991210",
+            "立法紀錄": "99卷80期3845號一冊 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc9c6c7cd81cfc6c6cfc7cfcfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cececfcec5cccdcfd2ccccc7"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1000309",
+            "立法紀錄": "100卷18期3870號 352-427頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc9c6c7cd81cecfcfcfcec7cfcec4cfcccacdc4cfcbcdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1000310",
+            "立法紀錄": "100卷18期3870號 428-448頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc9c6c7cd81cecfcfcfcec7cfcec4cfcbcdc7c4cfcbcbc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000613",
+            "立法紀錄": "100卷49期3901號三冊 1348-1373頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc9c6c7cd81cecfcfcfcbc6cfccc4cecccbc7c4ceccc8cc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cecacfcdc5cac6cdd2c9cec9"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1000614",
+            "立法紀錄": "100卷49期3901號五冊 2243-2250頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc9c6c7cd81cecfcfcfcbc6cfcac4cdcdcbccc4cdcdcacf",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1000614",
+            "立法紀錄": "100卷49期3901號五冊 2250-2250頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc9c6c7cd81cecfcfcfcbc6cfcac4cdcdcacfc4cdcdcacf",
+            "關係文書": []
+        }
+    ]
+}
