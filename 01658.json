@@ -1,0 +1,119 @@
+{
+    "title": "金融監督管理委員會保險局組織法",
+    "versions": [
+        "中華民國100年6月14日全文修正",
+        "中華民國100年6月29日公布"
+    ],
+    "types": [
+        "異動條文及理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(設立宗旨)",
+            "rule_no": "第一條",
+            "content": "　　金融監督管理委員會為辦理保險市場及保險業之監督、管理及其政策、法令之擬訂、規劃、執行等業務，特設保險局（以下簡稱本局）。",
+            "relates": {}
+        },
+        {
+            "note": "(掌理事項)",
+            "rule_no": "第二條",
+            "content": "　　本局掌理下列事項之擬訂、規劃及執行：\n　　一、保險業之監督及管理。\n　　二、保險商品之審查、監督及管理。\n　　三、強制汽車責任保險、住宅地震保險之監督及管理。\n　　四、保險業各項準備金提存、費率釐訂、精算統計與清償能力之監督及管理。\n　　五、與第一款機構或業務有關之財團法人、同業公會之監督及管理。\n　　六、與本局業務有關之消費者保護工作。\n　　七、與本局業務有關之金融機構檢查報告之處理及必要之追蹤、考核。\n　　八、其他有關保險業之監督及管理。",
+            "relates": {}
+        },
+        {
+            "note": "(正副局長之設置)",
+            "rule_no": "第三條",
+            "content": "　　本局置局長一人，職務列簡任第十三職等；副局長二人，職務列簡任第十二職等。",
+            "relates": {}
+        },
+        {
+            "note": "(主任秘書之設置)",
+            "rule_no": "第四條",
+            "content": "　　本局置主任秘書，職務列簡任第十一職等。",
+            "relates": {}
+        },
+        {
+            "note": "(職務列等及員額配置另定之)",
+            "rule_no": "第五條",
+            "content": "　　本局各職稱之官等職等及員額，另以編制表定之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第六條",
+            "content": "　　本法施行日期，由行政院以命令定之。",
+            "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第一條": "　　一、本條新增。\n　　二、明訂本會保險局之設立目的及隸屬關係。",
+        "第二條": "　　序文酌作文字修正，各款未修正。",
+        "第三條": "　　本條未修正。",
+        "第四條": "　　本條未修正。",
+        "第五條": "　　本條未修正。",
+        "第六條": "　　配合行政院組織改造期程，本法施行日期，修正由行政院以命令定之。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "1000222",
+            "立法紀錄": "100卷12期3864號一冊 9-10頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cfcfc981cecfcfcfcecdcfcec4cfcfcfc6c4cfcfcecf",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfcec8ccc5cbcfccd2cbcccf"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1000511",
+            "立法紀錄": "100卷43期3895號 146-206頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cfcfc981cecfcfcfcbcccfcec4cfcecbc9c4cfcdcfc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000531",
+            "立法紀錄": "100卷45期3897號一冊 388-423頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cfcfc981cecfcfcfcbcacfcec4cfccc7c7c4cfcbcdcc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cecacfcdc5cacacbd2cac6cf"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000613",
+            "立法紀錄": "100卷49期3901號四冊 1533-1533頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cfcfc981cecfcfcfcbc6cfcbc4cecaccccc4cecacccc",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1000607",
+            "立法紀錄": "100卷49期3901號六冊 2649-2651頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cfcfc981cecfcfcfcbc6cfc9c4cdc9cbc6c4cdc9cace",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1000614",
+            "立法紀錄": "100卷49期3901號五冊 2255-2264頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cfcfc981cecfcfcfcbc6cfcac4cdcdcacac4cdcdc9cb",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1000614",
+            "立法紀錄": "100卷49期3901號五冊 2264-2264頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cfcfc981cecfcfcfcbc6cfcac4cdcdc9cbc4cdcdc9cb",
+            "關係文書": []
+        }
+    ]
+}
