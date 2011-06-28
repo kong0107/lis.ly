@@ -1,0 +1,119 @@
+{
+    "title": "國立臺灣工藝研究發展中心組織法",
+    "versions": [
+        "中華民國100年6月14日制定",
+        "中華民國100年6月29日公布"
+    ],
+    "types": [
+        "異動條文及理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(設立宗旨)",
+            "rule_no": "第一條",
+            "content": "　　文化部為辦理臺灣工藝文化與產業之蒐集、整理、研究、典藏、展示、推廣、輔導及人才培訓業務，特設國立臺灣工藝研究發展中心（以下簡稱本中心）。",
+            "relates": {}
+        },
+        {
+            "note": "(職掌)",
+            "rule_no": "第二條",
+            "content": "　　本中心掌理下列事項：\n　　一、工藝文化研究、工藝文物典藏、展覽及競賽活動。\n　　二、工藝文化美學教育及推廣。\n　　三、工藝資訊之蒐集、研究、整理、運用及諮詢服務。\n　　四、工藝文化國際交流。\n　　五、工藝產業資源調查、整合研究及創新育成。\n　　六、工藝技術研發應用及試驗、分析。\n　　七、工藝技術創意設計人才培育。\n　　八、工藝創意設計及加值應用。\n　　九、工藝產業扶植培力。\n　　十、其他有關臺灣工藝事項。",
+            "relates": {}
+        },
+        {
+            "note": "(正、副主任之聘任)",
+            "rule_no": "第三條",
+            "content": "　　本中心置主任一人，職務列簡任第十二職等，必要時得比照專科以上學校校長或教授之資格聘任；副主任一人，職務列簡任第十一職等，必要時得比照副教授之資格聘任。",
+            "relates": {}
+        },
+        {
+            "note": "(職務列等及員額配置另定)",
+            "rule_no": "第四條",
+            "content": "　　本中心各職稱之官等職等及員額，另以編制表定之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第五條",
+            "content": "　　本法施行日期，由行政院以命令定之。",
+            "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第一條": "　　明定國立臺灣工藝研究發展中心之設立目的及隸屬關係。",
+        "第二條": "　　明定國立臺灣工藝研究發展中心之權限職掌。",
+        "第三條": "　　一、國立臺灣工藝研究發展中心首長、副首長之職稱、官職等及員額。\n　　二、本條所稱必要時得比照專科以上學校校長、教授及副教授之資格聘任，係依教育人員任用條例規定辦理。\n　　三、本條所定比照專科以上學校校長、教授及副教授之資格聘任者，其退休、撫卹比照教師相關規定辦理並應加入教育人員退撫基金；另其所具八十五年一月三十一日教育人員退撫新制施行以前年資之退撫經費，由國立臺灣工藝研究發展中心編列預算支應。",
+        "第四條": "　　中央政府機關總員額法第六條雖已授權訂定編制表，惟考量如僅於第三條規定首長、副首長之配置，將難窺知國立臺灣工藝研究發展中心人員配置及運作之全貌，爰於本條再予重申。",
+        "第五條": "　　明定本法之施行日期。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "1000222",
+            "立法紀錄": "100卷12期3864號一冊 8-9頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfc881cecfcfcfcecdcfcec4cfcfcfc7c4cfcfcfc6",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfcec8ccc5cccfc6d2ccccc9"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1000518",
+            "立法紀錄": "100卷46期3898號 115-195頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfc881cecfcfcfcbc9cfcec4cfcececac4cfcec6ca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1000519",
+            "立法紀錄": "100卷46期3898號 196-235頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfc881cecfcfcfcbc9cfcec4cfcec6c9c4cfcdccca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000613",
+            "立法紀錄": "100卷49期3901號四冊 1575-1621頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfc881cecfcfcfcbc6cfcbc4cecac8cac4cec9cdce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cec9cfcdc5cac6c7d2c9cbca"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000614",
+            "立法紀錄": "100卷49期3901號五冊 2238-2243頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfc881cecfcfcfcbc6cfcac4cdcdccc7c4cdcdcbcc",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1000607",
+            "立法紀錄": "100卷49期3901號六冊 2641-2648頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfc881cecfcfcfcbc6cfc9c4cdc9cbcec4cdc9cbc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1000614",
+            "立法紀錄": "100卷49期3901號五冊 2266-2280頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfc881cecfcfcfcbc6cfcac4cdcdc9c9c4cdcdc7cf",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1000614",
+            "立法紀錄": "100卷49期3901號五冊 2280-2280頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfc881cecfcfcfcbc6cfcac4cdcdc7cfc4cdcdc7cf",
+            "關係文書": []
+        }
+    ]
+}
