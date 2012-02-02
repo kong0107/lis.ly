@@ -1,0 +1,105 @@
+{
+    "title": "國立教育廣播電臺組織法",
+    "versions": [
+        "中華民國101年1月20日制定",
+        "中華民國101年2月3日公布"
+    ],
+    "types": [
+        "異動條文及理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(設立宗旨)",
+            "rule_no": "第一條",
+            "content": "　　教育部為辦理全國教育廣播業務，特設國立教育廣播電臺（以下簡稱本臺）。",
+            "relates": {}
+        },
+        {
+            "note": "(職掌)",
+            "rule_no": "第二條",
+            "content": "　　本臺掌理下列事項：\n　　一、教育政策、政令宣導之規劃及執行。\n　　二、教育廣播節目、教育新聞節目之規劃、製作、數位化管理及推廣。\n　　三、學校廣播教育之協助及推廣。\n　　四、社會教育及公共服務之推廣。\n　　五、其他有關教育廣播事項。",
+            "relates": {}
+        },
+        {
+            "note": "(正副臺長之設置)",
+            "rule_no": "第三條",
+            "content": "　　本臺置臺長一人，職務列簡任第十二職等，必要時得比照專科學校校長以上資格聘任；副臺長一人，職務列簡任第十一職等。",
+            "relates": {}
+        },
+        {
+            "note": "(職務列等及員額配置另定)",
+            "rule_no": "第四條",
+            "content": "　　本臺各職稱之官等職等及員額，另以編制表定之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第五條",
+            "content": "　　本法施行日期，由行政院以命令定之。",
+            "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第一條": "　　國立教育廣播電臺之設立目的及隸屬關係。",
+        "第二條": "　　本臺之權限職掌。",
+        "第三條": "　　本臺首長、副首長之職稱、官職等及員額。",
+        "第四條": "　　中央政府機關總員額法第六條雖已授權訂定編制表，惟考量如僅於第三條規定首長、副首長之配置，將難顯現本臺人員配置及運作之全貌，爰於本條再予重申。",
+        "第五條": "　　本法之施行日期。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "1000222",
+            "立法紀錄": "100卷12期3864號一冊 6-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfcb81cecfcfcfcecdcfcec4cfcfcfc9c4cfcfcfc8",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfcecfcdc5ccd2cccb"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1000406",
+            "立法紀錄": "100卷30期3882號 1-127頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfcb81cecfcfcfcccfcfcec4cfcfcfcec4cfcecdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1000407",
+            "立法紀錄": "100卷30期3882號 128-137頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfcb81cecfcfcfcccfcfcec4cfcecdc7c4cfceccc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000613",
+            "立法紀錄": "100卷49期3901號三冊 1304-1348頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfcb81cecfcfcfcbc6cfccc4cecccfcbc4cecccbc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cecacfccc5ccc8d2c7cb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1001214",
+            "立法紀錄": "100卷88期3940號三冊 1018-1019頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfcb81cecfcfcfc7c7cfccc4cecfcec7c4cecfcec6",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1010120",
+            "立法紀錄": "101卷1期3942號 85-100頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfcb81cecfcecfcfcecfcec4cfcfc7cac4cfcecfcf",
+            "關係文書": []
+        }
+    ]
+}
