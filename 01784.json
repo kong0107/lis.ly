@@ -1,0 +1,130 @@
+{
+    "title": "國立公共資訊圖書館組織法",
+    "versions": [
+        "中華民國101年1月20日制定",
+        "中華民國101年2月3日公布"
+    ],
+    "types": [
+        "異動條文及理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(設立宗旨)",
+            "rule_no": "第一條",
+            "content": "　　教育部為整合公共圖書館資源、推廣全民終身學習及提供數位化、多元性、全球性圖書資訊業務，並輔導地方公共圖書館，特設國立公共資訊圖書館（以下簡稱本館）。",
+            "relates": {}
+        },
+        {
+            "note": "(權限職掌)",
+            "rule_no": "第二條",
+            "content": "　　本館掌理下列事項：\n　　一、圖書資訊與數位資源之採訪、徵集、媒體轉置、編目與知識組織之管理及維護。\n　　二、圖書資訊、文獻資料之閱覽、流通、典藏與維護及讀者服務。\n　　三、公共圖書館資源之整合、館際交流及圖書資訊合作之推動。\n　　四、圖書館之利用推廣、出版、媒體行銷、地方公共圖書館之輔導協助及館員專業教育培訓。\n　　五、實體與線上參考諮詢服務、多元文化服務及主題知識庫之建立。\n　　六、數位資源及多媒體資料之使用、數位學習與資訊素養之培育及社群服務。\n　　七、資訊系統、資訊安全等軟硬體之規劃、建置、管理與維護及公共圖書館之共用資訊系統服務。\n　　八、其他有關圖書資訊及地方公共圖書館輔導事項。",
+            "relates": {}
+        },
+        {
+            "note": "(首長、副首長之職稱、官職等及員額)",
+            "rule_no": "第三條",
+            "content": "　　本館置館長一人，職務列簡任第十二職等，必要時得比照專科學校校長以上資格聘任；副館長一人，職務列簡任第十職等至第十一職等。",
+            "relates": {}
+        },
+        {
+            "note": "(編制表之訂定)",
+            "rule_no": "第四條",
+            "content": "　　本館各職稱之官等職等及員額，另以編制表定之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第五條",
+            "content": "　　本法施行日期，由行政院以命令定之。",
+            "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第一條": "　　國立公共資訊圖書館之設立目的及隸屬關係。",
+        "第二條": "　　本館之權限職掌。",
+        "第三條": "　　本館首長、副首長之職稱、官職等及員額。",
+        "第四條": "　　中央政府機關總員額法第六條雖已授權訂定編制表，惟考量如僅於第三條規定首長及副首長之配置，將難顯現本館人員配置及運作之全貌，爰於本條再予重申。",
+        "第五條": "　　本法之施行日期。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "1000222",
+            "立法紀錄": "100卷012期3864號一冊 6-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cfc6c981cecfcfcfcecdcfcec4cfcfcfc9c4cfcfcfc8",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfcecfcdc5ccd2cccb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1000325",
+            "立法紀錄": "100卷021期3873號一冊 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cfc6c981cecfcfcfcdcecfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "盧秀燕",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfc9cfcec5cdc8cdd2cdc8ca"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1000406",
+            "立法紀錄": "100卷030期3882號 1-127頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cfc6c981cecfcfcfcccfcfcec4cfcfcfcec4cfcecdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1000407",
+            "立法紀錄": "100卷030期3882號 128-137頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cfc6c981cecfcfcfcccfcfcec4cfcecdc7c4cfceccc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000613",
+            "立法紀錄": "100卷049期3901號三冊 1304-1348頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cfc6c981cecfcfcfcbc6cfccc4cecccfcbc4cecccbc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cecacfccc5ccc8d2c7cb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1001214",
+            "立法紀錄": "100卷088期3940號三冊 1018-1019頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cfc6c981cecfcfcfc7c7cfccc4cecfcec7c4cecfcec6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1010120",
+            "立法紀錄": "101卷001期3942號 85-100頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cfc6c981cecfcecfcfcecfcec4cfcfc7cac4cfcecfcf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?57084b3edf3e9f4746c5dfc8cc524981cecccd5249"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1010120",
+            "立法紀錄": "101卷001期3942號 100-100頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cfc6c981cecfcecfcfcecfcec4cfcecfcfc4cfcecfcf",
+            "關係文書": []
+        }
+    ]
+}
