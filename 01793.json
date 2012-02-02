@@ -1,0 +1,112 @@
+{
+    "title": "國立臺灣科學教育館組織法",
+    "versions": [
+        "中華民國101年1月20日制定",
+        "中華民國101年2月3日公布"
+    ],
+    "types": [
+        "異動條文及理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(設立宗旨)",
+            "rule_no": "第一條",
+            "content": "　　教育部為辦理普及全國科學教育，提升全民科學素養，並輔導中等以下學校與社會教育機構推行科學教育業務，特設國立臺灣科學教育館（以下簡稱本館）。",
+            "relates": {}
+        },
+        {
+            "note": "(職掌)",
+            "rule_no": "第二條",
+            "content": "　　本館掌理下列事項：\n　　一、國際科學教育之交流及運用。\n　　二、青少年科學人才之培育、科學教育競賽與交流、教學範例之研究發展及推廣。\n　　三、科學教育主題之展示、展品設計、展品更新及展場營運。\n　　四、科學教育之推廣、交流、輔導與科學教育出版品之編纂及發行。\n　　五、數位科學教育資源之研究、分析、建置、推廣及應用。\n　　六、其他有關科學教育事項。",
+            "relates": {}
+        },
+        {
+            "note": "(館長之設置)",
+            "rule_no": "第三條",
+            "content": "　　本館置館長一人，職務列簡任第十二職等，必要時得比照專科學校校長以上資格聘任。",
+            "relates": {}
+        },
+        {
+            "note": "(主任秘書之設置)",
+            "rule_no": "第四條",
+            "content": "　　本館置主任秘書一人，職務列簡任第十職等。",
+            "relates": {}
+        },
+        {
+            "note": "(職務列等及員額配置另定)",
+            "rule_no": "第五條",
+            "content": "　　本館各職稱之官等職等及員額，另以編制表定之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第六條",
+            "content": "　　本法施行日期，由行政院以命令定之。",
+            "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第一條": "　　國立臺灣科學教育館之設立目的及隸屬關係。",
+        "第二條": "　　本館之權限職掌。",
+        "第三條": "　　本館首長之職稱、官職等及員額。",
+        "第四條": "　　本館幕僚長之職稱及官職等。",
+        "第五條": "　　中央政府機關總員額法第六條雖已授權訂定編制表，惟考量如僅於第三條及第四條規定首長及幕僚長之配置，將難顯現本館人員配置及運作之全貌，爰於本條再予重申。",
+        "第六條": "　　本法之施行日期。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "1000222",
+            "立法紀錄": "100卷12期3864號一冊 6-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfc681cecfcfcfcecdcfcec4cfcfcfc9c4cfcfcfc8",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfcecfcdc5ccd2cccb"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1000406",
+            "立法紀錄": "100卷30期3882號 1-127頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfc681cecfcfcfcccfcfcec4cfcfcfcec4cfcecdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1000407",
+            "立法紀錄": "100卷30期3882號 128-137頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfc681cecfcfcfcccfcfcec4cfcecdc7c4cfceccc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000613",
+            "立法紀錄": "100卷49期3901號三冊 1304-1348頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfc681cecfcfcfcbc6cfccc4cecccfcbc4cecccbc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cecacfccc5ccc8d2c7cb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1001214",
+            "立法紀錄": "100卷88期3940號三冊 1018-1019頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfc681cecfcfcfc7c7cfccc4cecfcec7c4cecfcec6",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1010120",
+            "立法紀錄": "101卷1期3942號 85-100頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8cecfc681cecfcecfcfcecfcec4cfcfc7cac4cfcecfcf",
+            "關係文書": []
+        }
+    ]
+}
