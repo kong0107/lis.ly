@@ -1,0 +1,188 @@
+{
+    "title": "請願法",
+    "versions": [
+        "中華民國58年12月5日全文修正",
+        "中華民國58年12月18日公布"
+    ],
+    "types": [
+        "立法歷程",
+        "異動條文"
+    ],
+    "law_data": [
+        {
+            "note": "(適用範圍)",
+            "rule_no": "第一條",
+            "content": "　　人民請願，依本法之規定。",
+            "relates": {}
+        },
+        {
+            "note": "(得請願之事項及受理機關)",
+            "rule_no": "第二條",
+            "content": "　　人民對國家政策、公共利害或其權益之維護，得向職權所屬之民意機關或主管行政機關請願。",
+            "relates": {}
+        },
+        {
+            "note": "(請願事項不得牴觸憲法或干預審判)",
+            "rule_no": "第三條",
+            "content": "　　人民請願事項，不得牴觸憲法或干預審判。",
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "04414",
+                        "law_name": "立法院職權行使法",
+                        "numbers": [
+                            "第六十五條"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "note": "(應提起訴訟或訴願事項不得請願)",
+            "rule_no": "第四條",
+            "content": "　　人民對於依法應提起訴訟或訴願之事項，不得請願。",
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "04414",
+                        "law_name": "立法院職權行使法",
+                        "numbers": [
+                            "第六十五條"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "note": "(請願書記載事項)",
+            "rule_no": "第五條",
+            "content": "　　人民請願應備具請願書，載明左列事項，由請願人或請願團體及其負責人簽章：\n　　一、請願人之姓名、性別、年齡、籍貫、職業、住址；請願人為團體時，其團體之名稱、地址及其負責人。\n　　二、請願所基之事實、理由及其願望。\n　　三、受理請願之機關。\n　　四、中華民國年、月、日。",
+            "relates": {}
+        },
+        {
+            "note": "(集體請願之陳述應推代表為之)",
+            "rule_no": "第六條",
+            "content": "　　人民集體向各機關請願，面遞請願書，有所陳述時，應推代表為之；其代表人數，不得逾十人。",
+            "relates": {}
+        },
+        {
+            "note": "(受理機關得通知請願人前來答詢)",
+            "rule_no": "第七條",
+            "content": "　　各機關處理請願案件時，得通知請願人或請願人所推代表前來，以備答詢；其代表人數，不得逾十人。",
+            "relates": {}
+        },
+        {
+            "note": "(請願案件之結果應通知請願人)",
+            "rule_no": "第八條",
+            "content": "　　各機關處理請願案件，應將其結果通知請願人；如請願事項非其職掌，應將所當投遞之機關通知請願人。",
+            "relates": {}
+        },
+        {
+            "note": "(對請願人不得脅迫或歧視)",
+            "rule_no": "第九條",
+            "content": "　　受理請願機關或請願人所屬機關之首長，對於請願人不得有脅迫行為或因其請願而有所歧視。",
+            "relates": {}
+        },
+        {
+            "note": "(民意機關代表請願時之準用規定)",
+            "rule_no": "第十條",
+            "content": "　　地方民意機關代表人民向有關民意機關請願時，準用本法之規定。",
+            "relates": {}
+        },
+        {
+            "note": "(請願時不得有暴行等不法行為)",
+            "rule_no": "第十一條",
+            "content": "　　人民請願時，不得有聚眾脅迫、妨害秩序、妨害公務或其他不法情事；違者，除依法制止或處罰外，受理請願機關得不受理其請願。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第十二條",
+            "content": "　　本法自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "580613",
+            "立法紀錄": "58卷44期號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcbcc81cac7cbcccbcbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcccfcfc5cececad2cecdce"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "580806",
+            "立法紀錄": "58卷82期號 10-17頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcbcc81cac7cbcbc7cdcfcfcfcdc4cfcfcecfc4cfcfcec8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "580813",
+            "立法紀錄": "58卷82期號 17-20頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcbcc81cac7cbcbc7cdcfcfcfcdc4cfcfcec8c4cfcfcdcf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "581114",
+            "立法紀錄": "58卷83期號 2-29頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcbcc81cac7cbcbc7cccfcfcfcec4cfcfcfcdc4cfcfcdc6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcdcfcfc5cec9ced2cec8cd"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "581118",
+            "立法紀錄": "58卷84期號 2-11頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcbcc81cac7cbcbc7cbcfcfcfcec4cfcfcfcdc4cfcfcece",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "581118",
+            "立法紀錄": "58卷84期號 12-22頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcbcc81cac7cbcbc7cbcfcfcfcec4cfcfcecdc4cfcfcdcd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "581121",
+            "立法紀錄": "58卷85期號 2-21頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcbcc81cac7cbcbc7cacfcfcfcec4cfcfcfcdc4cfcfcdce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "581125",
+            "立法紀錄": "58卷86期號 2-20頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcbcc81cac7cbcbc7c9cfcfcfcec4cfcfcfcdc4cfcfcdcf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "581202",
+            "立法紀錄": "58卷88期號 8-20頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcbcc81cac7cbcbc7c7cfcfcfcec4cfcfcfc7c4cfcfcdcf",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "581205",
+            "立法紀錄": "58卷89期號 3-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cccbc7cfcbcc81cac7cbcbc7c6cfcfcfcec4cfcfcfccc4cfcfcfca",
+            "關係文書": []
+        }
+    ]
+}
