@@ -1,0 +1,126 @@
+{
+    "title": "內政部建築研究所組織法",
+    "versions": [
+        "中華民國102年8月6日制定",
+        "中華民國102年8月21日公布"
+    ],
+    "types": [
+        "異動條文及理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(設立目的及隸屬機關)",
+            "rule_no": "第一條",
+            "content": "　　內政部為辦理全國建築研究發展業務，特設建築研究所（以下簡稱本所）。",
+            "relates": {}
+        },
+        {
+            "note": "(掌理事項)",
+            "rule_no": "第二條",
+            "content": "　　本所掌理下列事項：\n　　一、建築政策發展及建築法規之研究、建議。\n　　二、建築規劃設計、使用管理及居住環境品質之研究發展。\n　　三、建築公共安全及防災之研究發展。\n　　四、建築構造及結構工程之研究發展。\n　　五、建築生產、營造技術及工程品質之研究發展。\n　　六、建築智慧化、環境控制及節約能源之研究發展。\n　　七、建築設備、材料與工法之試驗研究、檢測驗證、推廣應用及測試。\n　　八、各國建築管理制度及建築技術之引進、研究發展。\n　　九、民間成立辦理本條具自償性、技術性及服務性等業務專責機構之推動及輔導。\n　　十、其他有關建築研究發展事項。",
+            "relates": {}
+        },
+        {
+            "note": "(正、副所長之設置)",
+            "rule_no": "第三條",
+            "content": "　　本所置所長一人，職務列簡任第十三職等，或比照教授以上之資格聘任；副所長一人，職務列簡任第十二職等。",
+            "relates": {}
+        },
+        {
+            "note": "(主任秘書之設置)",
+            "rule_no": "第四條",
+            "content": "　　本所置主任秘書，職務列簡任第十一職等。",
+            "relates": {}
+        },
+        {
+            "note": "(各職稱之官等職等及員額另定編制表)",
+            "rule_no": "第五條",
+            "content": "　　本所各職稱之官等職等及員額，另以編制表定之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第六條",
+            "content": "　　本法施行日期，由行政院以命令定之。",
+            "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第一條": "　　建築研究所之設立目的及隸屬關係。",
+        "第二條": "　　本所之權限職掌。",
+        "第三條": "　　本所首長、副首長之職稱、官職等及員額。",
+        "第四條": "　　本所幕僚長之職稱及官職等。",
+        "第五條": "　　中央政府機關總員額法第六條雖已授權訂定編制表，惟考量如僅於第三條及第四條規定首長、副首長及幕僚長之配置，將難窺知本所人員配置及運作之全貌，爰於本條再予重申。",
+        "第六條": "　　本法之施行日期。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "1010427",
+            "立法紀錄": "101卷025期3966號 34-34頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc9cac9c781cecfcecfcdcacfcec4cfcfcccbc4cfcfcccb",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcdcfcec5cbc9cdd2cbc6c9"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1010523",
+            "立法紀錄": "101卷041期3982號 369-454頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc9cac9c781cecfcecfcbcecfcec4cfccc9c6c4cfcbcacb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1011011",
+            "立法紀錄": "101卷061期4002號二冊 179-318頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc9cac9c781cecfcecfc9cecfcdc4cfcec8c6c4cfcccec7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1020114",
+            "立法紀錄": "102卷005期4030號三冊 1139-1162頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc9cac9c781cecfcdcfcfcacfccc4cececcc6c4cecec9cd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecbcfcbc5cdcecbd2cdccc7"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1020806",
+            "立法紀錄": "102卷047期4072號 11-11頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc9cac9c781cecfcdcfcbc8cfcec4cfcfcecec4cfcfcece",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1020531",
+            "立法紀錄": "102卷047期4072號 425-448頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc9cac9c781cecfcdcfcbc8cfcec4cfcbcdcac4cfcbcbc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1020806",
+            "立法紀錄": "102卷047期4072號 70-71頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc9cac9c781cecfcdcfcbc8cfcec4cfcfc8cfc4cfcfc8ce",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1020806",
+            "立法紀錄": "102卷047期4072號 71-72頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc9cac9c781cecfcdcfcbc8cfcec4cfcfc8cec4cfcfc8cd",
+            "關係文書": []
+        }
+    ]
+}
