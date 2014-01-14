@@ -1,0 +1,117 @@
+{
+    "title": "教育部教育研究委員會組織條例",
+    "versions": [
+        "中華民國102年12月31日廢止",
+        "中華民國103年1月15日公布"
+    ],
+    "types": [
+        "廢止理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(任務)",
+            "rule_no": "第一條",
+            "content": "　　教育部設教育研究委員會，其任務如左：\n　　一、關於教育制度之研究、計劃事項。\n　　二、關於學生訓導之研究、計劃事項。\n　　三、關於學校行政之研究、計劃事項。\n　　四、其他有關教育之研究、計劃事項。",
+            "relates": {}
+        },
+        {
+            "note": "(委員編制)",
+            "rule_no": "第二條",
+            "content": "　　教育研究委員會設主任委員一人，由教育部部長兼任之，委員二十五人至四十人，其中七人至十一人專任，餘兼任，由教育部部長聘請左列人員充任之：\n　　一、對於教育富有研究或經驗之國內學者，二十人至三十二人。\n　　二、在華從事教育多年，著有成績之外國學者，五人至八人。",
+            "relates": {}
+        },
+        {
+            "note": "(列席人員)",
+            "rule_no": "第三條",
+            "content": "　　教育研究委員會開會時，教育部部長得指定參事、秘書、督學各一人及各司司長列席。",
+            "relates": {}
+        },
+        {
+            "note": "(開會主席)",
+            "rule_no": "第四條",
+            "content": "　　教育研究委員會開會時，由主任委員或其指定人員主席。",
+            "relates": {}
+        },
+        {
+            "note": "(組之組織)",
+            "rule_no": "第五條",
+            "content": "　　教育研究委員會設學制、課程、師資、行政四組，置組主任四人，秘書一人或二人，專員八人至十二人，均薦派；幹事十二人至二十人，助理幹事八人至十六人，均委派。\n　　前項職員得由教育部部長就部內職員中指派兼任。",
+            "relates": {}
+        },
+        {
+            "note": "(雇員)",
+            "rule_no": "第六條",
+            "content": "　　教育研究委員會必要時，得酌用雇員。",
+            "relates": {}
+        },
+        {
+            "note": "(辦事細則之訂定)",
+            "rule_no": "第七條",
+            "content": "　　教育研究委員會辦事細則，由教育部定之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第八條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　配合行政院組織改造作業，教育部教育研究委員會組織條例予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "1020226",
+            "立法紀錄": "102卷7期4032號一冊 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8c8cbc981cecfcdcfcfc8cfcec4cfcfcfcac4cfcfcfca",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cecfc6d2cececf"
+                ],
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cececa"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1021205",
+            "立法紀錄": "102卷83期4108號 173-204頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8c8cbc981cecfcdcfc7cccfcec4cfcec8ccc4cfcdcfcb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 353-378頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8c8cbc981cecfcccfcfcccfcec4cfcccaccc4cfccc8c7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c8c6d2c7ca"
+                ],
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c6cf"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 378-378頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8c8cbc981cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 378-378頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8c8cbc981cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
+            "關係文書": []
+        }
+    ]
+}
