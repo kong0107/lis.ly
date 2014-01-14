@@ -1,0 +1,133 @@
+{
+    "title": "國立教育資料館組織條例",
+    "versions": [
+        "中華民國102年12月31日廢止",
+        "中華民國103年1月15日公布"
+    ],
+    "types": [
+        "廢止理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(隸屬機關)",
+            "rule_no": "第一條",
+            "content": "　　國立教育資料館隸屬教育部，掌理國內外教育資料及視聽教育之研究、推廣等事宜。",
+            "relates": {}
+        },
+        {
+            "note": "(分組職務)",
+            "rule_no": "第二條",
+            "content": "　　國立教育資料館設左列各組：\n　　一、教育資料組：掌理教育資料之調查、統計、蒐集、整理、研究改進及編印事項。\n　　二、視聽教育組：掌理視聽教育教材、教具之審查、製作及研究事項。\n　　三、推廣組：掌理教育資料及視聽教育之推廣事項。\n　　四、總務組：掌理文書、出納、庶務及不屬於各組事項。",
+            "relates": {}
+        },
+        {
+            "note": "(館長編制)",
+            "rule_no": "第三條",
+            "content": "　　國立教育資料館置館長一人，簡任；綜理館務，並指揮、監督所屬機構及職員。",
+            "relates": {}
+        },
+        {
+            "note": "(組主任編制)",
+            "rule_no": "第四條",
+            "content": "　　國立教育資料館置組主任四人，薦任或簡任，分掌各組事務；編纂一人或二人，簡任，承館長之命，擔任研究、編纂事務；編輯三人至五人，薦任；幹事四人至六人，委任；各承長官之命，辦理所掌事務。\n　　前項薦任、簡任人員，除總務主任外，必要時得為聘任。",
+            "relates": {}
+        },
+        {
+            "note": "(秘書職務)",
+            "rule_no": "第五條",
+            "content": "　　國立教育資料館置秘書一人，薦任；承館長之命，綜理文稿，辦理交辦事項。",
+            "relates": {}
+        },
+        {
+            "note": "(會計室編制)",
+            "rule_no": "第六條",
+            "content": "　　國立教育資料館設會計室；置會計主任一人，薦任或委任；佐理員二人，委任；依法辦理歲計、會計事務。",
+            "relates": {}
+        },
+        {
+            "note": "(人事管理員之設置)",
+            "rule_no": "第七條",
+            "content": "　　國立教育資料館置人事管理員一人，委任；助理員一人，委任；依法辦理人事管理事務。",
+            "relates": {}
+        },
+        {
+            "note": "(雇員聘用)",
+            "rule_no": "第八條",
+            "content": "　　國立教育資料館因業務上之需要，得酌用僱員二人或三人。",
+            "relates": {}
+        },
+        {
+            "note": "(教育廣播電臺、電視設置)",
+            "rule_no": "第九條",
+            "content": "　　國立教育資料館得設教育廣播電臺及教育電視廣播電臺，其組織規程由教育部擬訂，呈請行政院核定之。",
+            "relates": {}
+        },
+        {
+            "note": "(專門委員會之設置)",
+            "rule_no": "第十條",
+            "content": "　　國立教育資料館於必要時，得呈准教育部設置各種專門委員會，聘請專家充任委員。\n　　前項委員為無給職。",
+            "relates": {}
+        },
+        {
+            "note": "(辦事細則)",
+            "rule_no": "第十一條",
+            "content": "　　國立教育資料館辦事細則，由國立教育資料館擬訂，呈請教育部核定之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第十二條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　國家教育研究院組織法已於100年3月30日施行，該院係由國立教育資料館、國立編譯館及國家教育研究院籌備處整併而成，爰將國立教育資料館組織條例予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "1010309",
+            "立法紀錄": "101卷4期3945號 10-10頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8c9c6cf81cecfcecfcfcbcfcec4cfcfcecfc4cfcfcecf",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcccfcdc5cec6d2cdcf"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1021205",
+            "立法紀錄": "102卷83期4108號 173-204頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8c9c6cf81cecfcdcfc7cccfcec4cfcec8ccc4cfcdcfcb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 348-351頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8c9c6cf81cecfcccfcfcccfcec4cfcccbc7c4cfcccace",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c8ccd2c8c9"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 351-351頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8c9c6cf81cecfcccfcfcccfcec4cfcccacec4cfcccace",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 351-351頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8c9c6cf81cecfcccfcfcccfcec4cfcccacec4cfcccace",
+            "關係文書": []
+        }
+    ]
+}
