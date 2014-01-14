@@ -1,0 +1,141 @@
+{
+    "title": "教育部醫學教育委員會組織條例",
+    "versions": [
+        "中華民國102年12月31日廢止",
+        "中華民國103年1月15日公布"
+    ],
+    "types": [
+        "廢止理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(任務)",
+            "rule_no": "第一條",
+            "content": "　　教育部設醫學教育委員會，其任務如左：\n　　一、關於醫學、藥學、護士、助產及衛生教育等各項教育計劃之擬訂事項。\n　　二、關於醫學、藥學、護士、助產等學校及各級學校衛生科之課程設備標準之審擬事項。\n　　三、關於醫學、藥學、護士、助產等學校及衛生人員訓練機構立案備案之審查事項。\n　　四、建議與醫學教育有關之一切興革事項。",
+            "relates": {}
+        },
+        {
+            "note": "(委員資格及選任)",
+            "rule_no": "第二條",
+            "content": "　　醫學教育委員會置委員二十七人至三十七人，由教育部部長就左列人員中，分別聘請或指派充任之：\n　　一、衛生署及軍政部軍醫署代表各一人。\n　　二、國立大學醫學院或獨立醫學院院長，國立醫藥專科學校校長。\n　　三、第一條所列各專家九人至十五人，其中七人為專任。\n　　四、教育部高等教育司司長，中等教育司司長及參事一人。",
+            "relates": {}
+        },
+        {
+            "note": "(委員任期)",
+            "rule_no": "第三條",
+            "content": "　　醫學教育委員會委員，任期一年，但得連任。",
+            "relates": {}
+        },
+        {
+            "note": "(常務委員之設置)",
+            "rule_no": "第四條",
+            "content": "　　醫學教育委員會置常務委員三人至五人，處理會務，由教育部部長就委員中指定之。",
+            "relates": {}
+        },
+        {
+            "note": "(秘書之設置)",
+            "rule_no": "第五條",
+            "content": "　　醫學教育委員會置秘書一人，薦派，或由教育部部長指定委員兼充之。",
+            "relates": {}
+        },
+        {
+            "note": "(組之設置)",
+            "rule_no": "第六條",
+            "content": "　　醫學教育委員會設左列各組：\n　　一、醫學教育組。\n　　二、藥學教育組。\n　　三、護士教育組。\n　　四、助產教育組。\n　　五、衛生教育組。\n　　每組各置主任一人，薦派，或由教育部部長指定委員兼充之，辦理各該組事務。",
+            "relates": {}
+        },
+        {
+            "note": "(編輯之編制)",
+            "rule_no": "第七條",
+            "content": "　　醫學教育委員會置編輯三人至五人，薦派；幹事一人或二人，委派；並得酌用雇員一人至三人。",
+            "relates": {}
+        },
+        {
+            "note": "(會議舉行期間)",
+            "rule_no": "第八條",
+            "content": "　　醫學教育委員會會議，每年舉行一次，必要時得召集臨時會議，開會時由教育部部長主席，部長因事不能出席時，由常務委員互推一人為主席。",
+            "relates": {}
+        },
+        {
+            "note": "(議決事項效力)",
+            "rule_no": "第九條",
+            "content": "　　醫學教育委員會議決事項，送請教育部採擇施行。",
+            "relates": {}
+        },
+        {
+            "note": "(顧問)",
+            "rule_no": "第十條",
+            "content": "　　醫學教育委員會得經教育部部長之核准，聘中外醫學專家三人至五人為顧問，開會時得請其列席。",
+            "relates": {}
+        },
+        {
+            "note": "(委員俸給)",
+            "rule_no": "第十一條",
+            "content": "　　醫學教育委員會非專任之委員及顧問，均為無給職，開會時得酌送旅費。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第十二條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　配合行政院組織改造作業，教育部醫學教育委員會組織條例予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "1020226",
+            "立法紀錄": "102卷7期4032號一冊 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8c8cacf81cecfcdcfcfc8cfcec4cfcfcfcac4cfcfcfca",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cecfc6d2cececf"
+                ],
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cececcd2cececb"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1021205",
+            "立法紀錄": "102卷83期4108號 173-204頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8c8cacf81cecfcdcfc7cccfcec4cfcec8ccc4cfcdcfcb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 353-378頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8c8cacf81cecfcccfcfcccfcec4cfcccaccc4cfccc8c7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c8c6d2c7ca"
+                ],
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c7c7d2c7c6"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 378-378頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8c8cacf81cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 378-378頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cccbc8c8cacf81cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
+            "關係文書": []
+        }
+    ]
+}
