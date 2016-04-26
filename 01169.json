@@ -1,0 +1,112 @@
+{
+    "title": "警察服制條例",
+    "versions": [
+        "中華民國105年4月8日修正",
+        "中華民國105年4月27日公布"
+    ],
+    "types": [
+        "異動條文及理由",
+        "立法歷程"
+    ],
+    "law_data": [
+        {
+            "note": "(警察服制規定)",
+            "rule_no": "第一條",
+            "content": "　　警察服制依本條例之規定。",
+            "relates": {}
+        },
+        {
+            "note": "(警察服制分類)",
+            "rule_no": "第二條",
+            "content": "　　警察制服分為禮服、常服及便服三種，現任警察人員依規定服用之。",
+            "relates": {}
+        },
+        {
+            "note": "(警察人員服用禮服時間)",
+            "rule_no": "第三條",
+            "content": "　　警察人員服用禮服時間如左：\n　　一、參加本國或友邦大典及宴會時。\n　　二、晉謁總統或友邦元首時。\n　　三、正式訪問或回訪友邦文武官員時。\n　　四、參加警察各種重要典禮或校閱部隊時。\n　　前項第四款禮服得以常服代之。",
+            "relates": {}
+        },
+        {
+            "note": "(平日執行職務及參加集會服制)",
+            "rule_no": "第四條",
+            "content": "　　警察人員平日執行職務及參加集會時，除以服用常服為適當者外，均得服用便服。但因任務需要，得不服用制服。\n　　依前項規定服用制服時，因氣候寒冷或下雨，得加服大衣或雨衣。",
+            "relates": {}
+        },
+        {
+            "note": "(警察制服及標識)",
+            "rule_no": "第五條",
+            "content": "　　警察制服式樣及應佩帶之標識，由內政部定之。\n　　前項警察制服及標識，由各級警察機關統籌製發。",
+            "relates": {}
+        },
+        {
+            "note": "(警察服制制定機關)",
+            "rule_no": "第六條",
+            "content": "　　警察機關行政人員、中央警察大學、警察專科學校及警察學校學員、學生、警察儀隊、警察樂隊、特殊作業之工作人員、警察機關管理之駐衛警察或編訓之義勇警察等人員；其服式、標識與警察人員之雨衣、雨鞋及執行特種勤務之服式，由內政部定之。",
+            "relates": {}
+        },
+        {
+            "note": "(警察服裝之換季)",
+            "rule_no": "第七條",
+            "content": "　　警察服裝換季時間，由內政部警政署依各地氣候季節情形規定之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第八條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第五條": "　　一、原條文第一項所附警察制服制式說明書之附圖所定女警夏季制服不論甲式或乙式便服，下裝均為褲裙式短裙，內容形式上有強化女性應著裙裝之性別刻板印象，與違反消除對婦女一切形式歧視公約第五條a款之規定未符；另依司法院釋字第四四三號解釋理由書，屬執行法律之細節性、技術性次要事項，得由主管機關發布命令為必要之規範，警察制服式樣及應佩帶之標識屬執行本條例技術性事項，爰將該等事項由原條文之「依本條例所附警察制服制式說明書」修正為「由內政部定之」，俾符合該公約規定及實務需求，並配合將所附說明書（含附圖）一併刪除。\n　　二、第二項未修正。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "1050219",
+            "立法紀錄": "105卷1期4298號一冊 16-16頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7ccccc6cccbc981cecfcacfcfcecfcec4cfcfcec9c4cfcfcec9",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfcec8ccc5cccdccd2cccbc9"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1050331",
+            "立法紀錄": "105卷19期4316號二冊 84-84,87-157頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7ccccc6cccbc981cecfcacfcec6cfcdc4cfcfc7cbc4cfcfc7cbd9cecfcacfcec6cfcdc4cfcfc7c8c4cfcecac8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1050408",
+            "立法紀錄": "105卷15期4312號 55-58頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7ccccc6cccbc981cecfcacfcecacfcec4cfcfcacac4cfcfcac7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfc7c8c6c5cec6d2cdcd"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1050408",
+            "立法紀錄": "105卷15期4312號 58-58頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7ccccc6cccbc981cecfcacfcecacfcec4cfcfcac7c4cfcfcac7",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1050408",
+            "立法紀錄": "105卷15期4312號 58-59頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7ccccc6cccbc981cecfcacfcecacfcec4cfcfcac7c4cfcfcac6",
+            "關係文書": []
+        }
+    ]
+}
