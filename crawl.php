@@ -1,5 +1,7 @@
 <?php
 
+require_once('config.php');
+
 class Crawler
 {
     protected $curl;
@@ -83,13 +85,13 @@ class Crawler
 
     public function getLawCategories()
     {
-        if (!file_exists('laws-category.csv')) {
+        if (!file_exists('catalogue/laws-category.csv')) {
             return array();
         }
 
         $law_categories = array();
 
-        $fp = fopen('laws-category.csv', 'r');
+        $fp = fopen('catalogue/laws-category.csv', 'r');
         $columns = fgetcsv($fp);
         while ($rows = fgetcsv($fp)) {
             list($c1, $c2, $status, $law_id) = $rows;
@@ -101,8 +103,8 @@ class Crawler
 
     /**
      * getNextPageDoc 從現在這一頁的 $doc 找出下一頁的內容，如果沒有下一頁傳 null
-     * 
-     * @param mixed $doc 
+     *
+     * @param mixed $doc
      * @access public
      * @return void
      */
@@ -253,7 +255,7 @@ class Crawler
                 $versions[] = $td_dom->nodeValue;
             }
 
-            // 先抓全文 
+            // 先抓全文
             $url = 'https://lis.ly.gov.tw' . $law_url;
             $content = $this->http($url);
             file_put_contents(__DIR__ . "/laws/{$law_id}/{$versions[0]}.html", $content);
@@ -292,8 +294,8 @@ class Crawler
     {
         $law_versions = array();
 
-        if (file_exists('laws-versions.csv')) {
-            $fp = fopen('laws-versions.csv', 'r');
+        if (file_exists('catalogue/laws-versions.csv')) {
+            $fp = fopen('catalogue/laws-versions.csv', 'r');
             $columns = fgetcsv($fp);
 
             while ($rows = fgetcsv($fp)) {
@@ -330,7 +332,7 @@ class Crawler
             return 0;
         });
 
-        $fp = fopen('laws-versions.csv', 'w');
+        $fp = fopen('catalogue/laws-versions.csv', 'w');
         fputcsv($fp, array('代碼', '法條名稱', '發布時間', '包含資訊'));
         foreach ($law_versions as $rows) {
             fputcsv($fp, $rows);
@@ -341,8 +343,8 @@ class Crawler
     public static function addLaw($category, $category2, $status, $law_id, $title)
     {
         $laws = array();
-        if (file_exists('laws.csv')) {
-            $fp = fopen('laws.csv', 'r');
+        if (file_exists('catalogue/laws.csv')) {
+            $fp = fopen('catalogue/laws.csv', 'r');
             fgetcsv($fp);
             while ($rows = fgetcsv($fp)) {
                 $laws[$rows[0]] = $rows;
@@ -353,7 +355,7 @@ class Crawler
         $laws[$law_id] = array($law_id, $title, $status);
         ksort($laws);
 
-        $fp = fopen('laws.csv', 'w');
+        $fp = fopen('catalogue/laws.csv', 'w');
         fputcsv($fp, array('代碼', '法條名稱', '狀態'));
         foreach ($laws as $k => $v) {
             fputcsv($fp, $v);
@@ -367,7 +369,7 @@ class Crawler
         );
         ksort($law_categories);
 
-        $fp = fopen('laws-category.csv', 'w');
+        $fp = fopen('catalogue/laws-category.csv', 'w');
         fputcsv($fp, array('主分類', '次分類', '狀態', '代碼', '法條名稱'));
         foreach ($law_categories as $rows) {
             fputcsv($fp, $rows);
@@ -433,7 +435,7 @@ class Crawler
     {
         $doc = new DOMDocument;
         @$doc->loadHTML($content);
-        file_put_contents('tmp', $content);
+        //file_put_contents('tmp', $content);
         foreach ($doc->getElementsByTagName('img') as $img_dom) {
             if ($img_dom->getAttribute('src') == '/lglaw/images/relate.png') {
                 $href = $img_dom->parentNode->getAttribute('href');
@@ -456,6 +458,18 @@ class Crawler
         if (!file_exists(__DIR__ . '/laws')) {
             mkdir(__DIR__ . '/laws');
             mkdir(__DIR__ . '/laws/relate');
+
+            if (file_exists(__DIR__ . '/catalogue')) {
+                unlink(__DIR__ . '/catalogue/laws.csv');
+                unlink(__DIR__ . '/catalogue/laws-category.csv');
+                unlink(__DIR__ . '/catalogue/laws-versions.csv');
+            }
+            else {
+                mkdir(__DIR__ . '/catalogue');
+                system("git -C ./catalogue init");
+                system("git -C ./catalogue checkout -b catalogue");
+                system("git -C ./catalogue remote add origin " . REPOSITORY);
+            }
         }
 
         $this->curl = curl_init();
@@ -470,6 +484,10 @@ class Crawler
 
         // 再回頭去最新公布法律抓新公布法
         $this->crawlLatestLaws();
+
+        // 把 catalogue/*.csv 也用 git 維護
+        system("git -C ./catalogue add .");
+        system(sprintf('git -C ./catalogue commit -m "%s"', date('c')));
     }
 }
 

@@ -1,12 +1,11 @@
 <?php
 
-date_default_timezone_set('Asia/Taipei');
+require_once('config.php');
 
 class Error2 extends Exception{
     public function setMessage($message){
         $this->message = $message;
     }
-
 }
 
 
@@ -376,18 +375,22 @@ class Exporter
 
     public function main()
     {
-        if (!file_exists(__DIR__ . '/outputs')) {
-            mkdir(__DIR__ . '/outputs');
-            mkdir(__DIR__ . '/outputs_json');
+        if (!file_exists(__DIR__ . '/law_cache')) {
             mkdir(__DIR__ . '/law_cache');
-            system("git -C ./outputs init");
+
+            mkdir(__DIR__ . '/outputs_markdown');
+            system("git -C ./outputs_markdown init");
+            system("git -C ./outputs_markdown checkout -b markdown");
+            system("git -C ./outputs_markdown remote add origin " . REPOSITORY_URI);
+
+            mkdir(__DIR__ . '/outputs_json');
             system("git -C ./outputs_json init");
-            system("git -C ./outputs remote add origin git@github.com:ronnywang/tw-law-corpus");
-            system("git -C ./outputs_json remote add origin git@github.com:ronnywang/tw-law-corpus");
+            system("git -C ./outputs_json checkout -b json");
+            system("git -C ./outputs_json remote add origin " . REPOSITORY_URI);
         }
 
         $laws = array();
-        $fp = fopen('laws.csv', 'r');
+        $fp = fopen('catalogue/laws.csv', 'r');
         fgetcsv($fp);
         while ($rows = fgetcsv($fp)) {
             list($id, $name, $type) = $rows;
@@ -410,7 +413,7 @@ class Exporter
         }
         fclose($fp);
 
-        $fp = fopen('laws-category.csv', 'r');
+        $fp = fopen('catalogue/laws-category.csv', 'r');
         fgetcsv($fp);
         while ($rows = fgetcsv($fp)) {
             list($category1, $category2, $type, $id, $name)= $rows;
@@ -421,7 +424,7 @@ class Exporter
         fclose($fp);
 
         error_log("parsing");
-        $fp = fopen('laws-versions.csv', 'r');
+        $fp = fopen('catalogue/laws-versions.csv', 'r');
         fgetcsv($fp);
         $commits = array();
 
@@ -499,12 +502,6 @@ class Exporter
         usort($commits, function($a, $b) { return $a[0] - $b[0]; });
 
         error_log('writing');
-
-        if (!file_exists(__DIR__ . "/outputs/laws")) {
-            mkdir(__DIR__ . "/outputs/laws");
-            mkdir(__DIR__ . "/outputs_json/laws");
-        }
-
         foreach ($commits as $time_obj) {
             list($commit_at, $id, $title, $versions) = $time_obj;
             error_log($id);
@@ -518,18 +515,10 @@ class Exporter
                 $e->setMessage("{$title} {$versions[0]} {$e->getMessage()}");
                 throw $e;
             }
-            foreach ($laws[$id]['categories'] as $categories) {
-                list($category1, $category2) = $categories;
-                if (!file_exists(__DIR__ . "/outputs/{$category1}/{$category2}")) {
-                    mkdir(__DIR__ . "/outputs/{$category1}/{$category2}", 0777, true);
-                    mkdir(__DIR__ . "/outputs_json/{$category1}/{$category2}", 0777, true);
-                }
+            file_put_contents(__DIR__ . "/outputs_markdown/{$id}.md", $info->content);
+            file_put_contents(__DIR__ . "/outputs_json/{$id}.json", json_encode($obj, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
 
-                file_put_contents(__DIR__ . "/outputs/{$category1}/{$category2}/{$title}.md", $info->content);
-                file_put_contents(__DIR__ . "/outputs_json/{$category1}/{$category2}/{$title}.json", json_encode($obj, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
-            }
-
-            system("git -C ./outputs add .");
+            system("git -C ./outputs_markdown add .");
             system("git -C ./outputs_json add .");
 
             unset($info->content);
@@ -567,7 +556,7 @@ class Exporter
                 print_r($info);
                 throw new Exception("還有 info 欄位未處理");
             }
-            $cmd = ("git -C ./outputs commit " . implode(' ', $terms));
+            $cmd = ("git -C ./outputs_markdown commit " . implode(' ', $terms));
             error_log($cmd);
             system($cmd);
             $cmd = ("git -C ./outputs_json commit " . implode(' ', $terms));

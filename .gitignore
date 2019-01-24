@@ -1,7 +1,8 @@
 .*.swp
-law_cache
-outputs
-outputs_json
+catalogue
 laws
+law_cache
+outputs_markdown
+outputs_json
 gravatar/config.php
 gravatar/ly-data.csv
