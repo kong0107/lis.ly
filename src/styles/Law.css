@@ -1,0 +1,27 @@
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+ul, ol {
+  margin: 0;
+  padding: 0;
+}
+
+.rule_no {
+  font-weight: bold;
+}
+
+.note {
+  margin-left: 1em;
+  font-size: small;
+}
+
+.articleLine {
+  margin-bottom: 0.5em;
+}
+
+.deprecation {
+  border: 1px solid red;
+  padding: 0.5em;
+  margin: 0.5em;
+}

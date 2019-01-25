@@ -1,26 +1,35 @@
 import React, { Component } from 'react';
-import logo from '../logo.svg';
+import {
+  BrowserRouter as Router,
+  Route,
+  Switch,
+  Link
+} from "react-router-dom";
+
+import LawList from './LawList';
+import Law from './Law';
+
 import '../styles/App.css';
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
+      <Router basename="/lis.ly/">
+        <div className="App">
+          <header>
+            <Link className="App-link" to="/">法律查詢</Link>
+          </header>
+          <main>
+            <Switch>
+              <Route path="/" exact component={LawList} />
+              <Route path="/laws/:id" component={Law} />
+            </Switch>
+          </main>
+          <footer>
+            <a className="App-footer-link" href="https://github.com/kong0107/lis.ly">開放資料及擷取程式</a>
+          </footer>
+        </div>
+      </Router>
     );
   }
 }
