@@ -55,7 +55,7 @@ class Exporter
                             if (!array_key_exists($relate_law->law_no, $laws)) {
                                 throw new Exception("找不到 {$relate_law->law_no}");
                             }
-                            $relate_url = $laws[$relate_law->law_no]['id'] + '.md';
+                            $relate_url = $laws[$relate_law->law_no]['id'] . '.md';
                             $relate_records = array();
                             foreach ($relate_law->numbers as $number) {
                                 if (array_key_exists($number, $laws[$relate_law->law_no]['rule_note'])) {
