@@ -10,7 +10,7 @@ import {
   errorHandler as eh
 } from '../libs/utilities';
 
-export default class LawList extends React.Component {
+export default class LawList extends React.PureComponent {
   constructor(props) {
     super(props);
     this.state = {
@@ -31,6 +31,7 @@ export default class LawList extends React.Component {
       this.setState({laws: records});
     })
     .catch(eh);
+    document.title = '法律查詢';
   }
 
   render() {
@@ -41,14 +42,14 @@ export default class LawList extends React.Component {
     ;
     return (
       <div>
-        <input
+        <input style={{margin: '1em 0'}}
           onInput={se => this.setState({query: se.target.value})}
           placeholder="搜尋名稱"
         />
         <div>{q ? '找到' : '共有'} {matchedLaws.length} 部法律</div>
         <ul>
           {matchedLaws.map(law =>
-            <li key={law.id}>
+            <li key={law.id} style={{margin: '.2em 0'}}>
               <code>{law.id}</code>
               <Link to={`/laws/${law.id}`}>{law.name}</Link>
             </li>

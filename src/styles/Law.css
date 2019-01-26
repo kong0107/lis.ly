@@ -2,9 +2,24 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
 }
 
+h1 {
+  position: sticky;
+  top: 0;
+}
+
+h2, h3, h4, h5, h6 {
+  background-color: #234;
+  color: #fff;
+  padding: 0 0 .5em .5em;
+}
+
 ul, ol {
   margin: 0;
   padding: 0;
+}
+
+.Law > header {
+  margin-bottom: .5em;
 }
 
 .rule_no {
@@ -24,4 +39,27 @@ ul, ol {
   border: 1px solid red;
   padding: 0.5em;
   margin: 0.5em;
+}
+
+.deprecation p {
+  margin: 0;
+}
+
+article {
+  border-bottom: 1px solid #ccc;
+  padding: .5em 0;
+}
+
+article > *:not(header) {
+  margin-left: 1em;
+}
+
+.relates, .reason {
+  background-color: #ddd;
+  padding: 0.3em;
+  font-size: small;
+}
+
+.relates > dt, .reason > dt {
+  font-weight: bold;
 }

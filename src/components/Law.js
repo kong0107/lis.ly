@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from "react-router-dom";
+//import { Link } from "react-router-dom";
 import {
   fetch2,
   errorHandler as eh
@@ -7,7 +7,7 @@ import {
 
 import '../styles/Law.css';
 
-export default class Law extends React.Component {
+export default class Law extends React.PureComponent {
   constructor(props) {
     super(props);
     this.state = {
@@ -24,12 +24,7 @@ export default class Law extends React.Component {
     fetch2(`https://cdn.jsdelivr.net/gh/kong0107/lis.ly@json/${this.props.match.params.id}.json`)
     .then(res => res.json())
     .then(law => {
-      this.setState({law});
-      if(window.location.hash) {
-        const hash = window.location.hash;
-        window.location.hash = '';
-        window.location.hash = hash;
-      }
+      document.title = law.title;
 
       if(law.law_reasons) {
         for(let number in law.law_reasons) {
@@ -37,6 +32,13 @@ export default class Law extends React.Component {
           .find(item => item.rule_no === number)
           .reason = law.law_reasons[number];
         }
+      }
+      this.setState({law});
+
+      if(window.location.hash) {
+        const hash = window.location.hash;
+        window.location.hash = '';
+        window.location.hash = hash;
       }
     })
     .catch(eh);
@@ -50,19 +52,29 @@ export default class Law extends React.Component {
       : law.law_data
     ;
     return (
-      <div>
-        <h1>{law.title}</h1>
-        {law.deprecated_reason &&
-          <div className="deprecation">
-            <strong>已廢止</strong>
-            {law.deprecated_reason.split('\n').map((line, index) => <p key={index}>{line.trim()}</p>)}
-          </div>
-        }
-        <input
-          onInput={se => this.setState({query: se.target.value})}
-          placeholder="搜尋法條"
-        />
-        {content.map(renderContentItem)}
+      <div className="Law">
+        <header>
+          <h1>{law.title}</h1>
+          <ol>
+            {law.versions.map((item, index) => <li key={index}>{item}</li>)}
+          </ol>
+          {law.deprecated_reason &&
+            <div className="deprecation">
+              <strong>已廢止</strong>
+              {law.deprecated_reason.split('\n').map((line, index) => <p key={index}>{line.trim()}</p>)}
+            </div>
+          }
+          <input
+            onInput={se => this.setState({query: se.target.value})}
+            placeholder="搜尋法條"
+          />
+        </header>
+        <div>
+          {law.law_data.length
+            ? content.map(renderContentItem)
+            : '讀取中'
+          }
+        </div>
       </div>
     );
   }
@@ -89,11 +101,11 @@ const renderContentItem = item => {
         )}
       </ol>
       {Object.keys(item.relates).map(type => renderRelates(item.relates[type], type))}
-      {item.reason && // TODO: 這沒出來？
-        <div>
-          <header>修正理由</header>
-          {item.reason.split('\n').map((line, index) => <p key={index}>{line}</p>)}
-        </div>
+      {item.reason &&
+        <dl className="reason">
+          <dt>修正理由</dt>
+          {item.reason.split('\n').map((line, index) => <dd key={index}>{line.trim()}</dd>)}
+        </dl>
       }
     </article>
   );
@@ -101,20 +113,19 @@ const renderContentItem = item => {
 
 const renderRelates = (groups, type) => {
   return (
-    <dl key={type}>
+    <dl key={type} className="relates">
       <dt>{type}</dt>
       {groups.map(articlesInOneLaw => {
         const articles = articlesInOneLaw.numbers.map(num =>
-          // 連結無效？
-          <Link key={num}
-            to={`/laws/${articlesInOneLaw.law_no}#${num}`}
-          >{num}</Link>
+          <a key={num}
+            href={`${articlesInOneLaw.law_no}#${num}`}
+          >{num}</a>
         );
         for(let i = articles.length - 1; i > 0; --i)
           articles.splice(i, 0, '、');
         return (
           <dd key={articlesInOneLaw.law_no}>
-            <Link to={`/laws/${articlesInOneLaw.law_no}`}>{articlesInOneLaw.law_name}</Link>
+            <a href={`${articlesInOneLaw.law_no}`}>{articlesInOneLaw.law_name}</a>
             ：{articles}
           </dd>
         );
