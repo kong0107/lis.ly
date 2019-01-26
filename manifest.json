@@ -1,11 +1,11 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "法律查詢",
+  "name": "查詢立法院法律系統的資料",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://cdn.jsdelivr.net/gh/g0v/laweasyread-front/icon.png",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/png"
     }
   ],
   "start_url": ".",
